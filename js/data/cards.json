@@ -1,0 +1,1830 @@
+[
+  {
+    "id": "major_00",
+    "name": "The Fool",
+    "name_vi": "Kẻ Khờ",
+    "image": "assets/images/cards/Major_Arcana/00_The_Fool.jpg",
+    "upright": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Thiếu cam kết)",
+      "reality_check": "Mối quan hệ tự do, thoải mái nhưng đối phương né tránh nói về tương lai.",
+      "hidden_motive": "Thích sự phiêu lưu, vui vẻ nhất thời nhưng sợ trách nhiệm ràng buộc.",
+      "self_deception": "Bạn hy vọng sự tự do của họ sẽ dừng lại khi họ yêu bạn.",
+      "action_advice": "Hỏi rõ về mục tiêu dài hạn, không vội đầu tư quá sâu cảm xúc hay tài chính."
+    },
+    "reversed": {
+      "flag": "red",
+      "flag_title": "Cờ đỏ (Bốc đồng & Vô trách nhiệm)",
+      "reality_check": "Hành động thiếu suy nghĩ, gây ra rắc rối rồi bỏ mặc bạn giải quyết.",
+      "hidden_motive": "Muốn quyền lợi nhưng từ chối nhận hậu quả sai lầm.",
+      "self_deception": "Bạn đang đóng vai người cứu rỗi dọn dẹp rắc rối cho họ.",
+      "action_advice": "Dừng bao bọc và đặt ranh giới trách nhiệm dứt khoát."
+    }
+  },
+  {
+    "id": "major_01",
+    "name": "The Magician",
+    "name_vi": "Ảo Thuật Gia",
+    "image": "assets/images/cards/Major_Arcana/01_The_Magician.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Chủ động & Thấu hiểu)",
+      "reality_check": "Giao tiếp lôi cuốn, biết lắng nghe và giải quyết khúc mắc linh hoạt.",
+      "hidden_motive": "Muốn gây ấn tượng tốt và xây dựng kết nối có ý nghĩa.",
+      "self_deception": "Không có điểm mù đáng ngại.",
+      "action_advice": "Tiếp tục quan sát sự nhất quán giữa lời nói và việc làm."
+    },
+    "reversed": {
+      "flag": "red",
+      "flag_title": "Cờ đỏ (Bậc thầy thao túng)",
+      "reality_check": "Khéo mồm, vẽ ra tương lai hoàn hảo nhưng hành động thực tế rỗng tuếch (Love Bombing).",
+      "hidden_motive": "Dùng tài ăn nói để lèo lái cảm xúc và kiểm soát bạn theo ý họ.",
+      "self_deception": "Bạn bị choáng ngợp bởi vẻ ngoài hoàn hảo và những lời mật ngọt.",
+      "action_advice": "Kiểm chứng bằng hành động thực tế, không tin lời hứa suông."
+    }
+  },
+  {
+    "id": "major_02",
+    "name": "The High Priestess",
+    "name_vi": "Nữ Tư Tế",
+    "image": "assets/images/cards/Major_Arcana/02_The_High_Priestess.jpg",
+    "upright": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Kín tiếng & Bí ẩn)",
+      "reality_check": "Ít chia sẻ cảm xúc cá nhân, giữ khoảng cách và có nhiều vùng riêng tư.",
+      "hidden_motive": "Cần thời gian xây dựng niềm tin hoặc có tổn thương cũ chưa lành.",
+      "self_deception": "Bạn cố đào sâu khi đối phương chưa thực sự sẵn sàng.",
+      "action_advice": "Tôn trọng nhịp điệu của họ nhưng không tự suy diễn lung tung."
+    },
+    "reversed": {
+      "flag": "red",
+      "flag_title": "Cờ đỏ (Che giấu sự thật)",
+      "reality_check": "Chủ động giấu thông tin quan trọng, sống hai mặt hoặc cố tình mập mờ.",
+      "hidden_motive": "Giữ bí mật để duy trì thế kiểm soát thông tin trong mối quan hệ.",
+      "self_deception": "Bạn bỏ qua linh cảm bất an và tự an ủi rằng họ chỉ ít nói.",
+      "action_advice": "Yêu cầu sự minh bạch trong những việc ảnh hưởng trực tiếp đến hai người."
+    }
+  },
+  {
+    "id": "major_03",
+    "name": "The Empress",
+    "name_vi": "Nữ Hoàng",
+    "image": "assets/images/cards/Major_Arcana/03_The_Empress.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Chăm sóc & Ấm áp)",
+      "reality_check": "Quan tâm chân thành, tôn trọng cảm xúc và ủng hộ bạn phát triển.",
+      "hidden_motive": "Muốn xây dựng không gian an toàn, giàu tình cảm và gắn bó.",
+      "self_deception": "Không có điểm mù tiêu cực.",
+      "action_advice": "Đón nhận tình cảm và chủ động trao đi sự quan tâm tương xứng."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Kiểm soát bằng tình thương)",
+      "reality_check": "Quan tâm thái quá, can thiệp sâu vào đời tư dưới mác 'lo cho bạn'.",
+      "hidden_motive": "Muốn bạn phụ thuộc vào sự chăm sóc của họ để dễ chi phối.",
+      "self_deception": "Bạn cảm thấy có lỗi mỗi khi muốn làm điều gì theo ý riêng.",
+      "action_advice": "Thiết lập ranh giới rõ ràng về không gian độc lập của bạn."
+    }
+  },
+  {
+    "id": "major_04",
+    "name": "The Emperor",
+    "name_vi": "Hoàng Đế",
+    "image": "assets/images/cards/Major_Arcana/04_The_Emperor.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Vững vàng & Nguyên tắc)",
+      "reality_check": "Trách nhiệm, đáng tin cậy, hành động nhất quán và có khả năng bảo vệ mối quan hệ.",
+      "hidden_motive": "Muốn đem lại sự ổn định và an tâm cho cả hai.",
+      "self_deception": "Không có điểm mù lớn.",
+      "action_advice": "Cùng nhau bàn bạc kế hoạch chung với sự tôn trọng lẫn nhau."
+    },
+    "reversed": {
+      "flag": "red",
+      "flag_title": "Cờ đỏ (Gia trưởng & Độc đoán)",
+      "reality_check": "Luôn muốn ra quyết định cuối cùng, áp đặt tiêu chuẩn và coi thường ý kiến của bạn.",
+      "hidden_motive": "Muốn nắm giữ quyền kiểm soát tuyệt đối mối quan hệ.",
+      "self_deception": "Bạn nhượng bộ vì nghĩ rằng họ có kinh nghiệm hơn bạn.",
+      "action_advice": "Không nhượng bộ quyền tự quyết cá nhân; từ chối các yêu cầu áp đặt vô lý."
+    }
+  },
+  {
+    "id": "major_05",
+    "name": "The Hierophant",
+    "name_vi": "Giáo Hoàng",
+    "image": "assets/images/cards/Major_Arcana/05_The_Hierophant.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Chân thành & Cam kết)",
+      "reality_check": "Tôn trọng giá trị truyền thống, nghiêm túc và hướng tới sự gắn bó lâu dài.",
+      "hidden_motive": "Tìm kiếm sự hòa hợp về đạo đức và định hướng gia đình.",
+      "self_deception": "Không có điểm mù lớn.",
+      "action_advice": "Cởi mở chia sẻ về các giá trị sống cốt lõi của nhau."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Bảo thủ & Định kiến)",
+      "reality_check": "Phán xét lối sống của bạn, ép buộc bạn phải theo khuôn mẫu gia đình họ.",
+      "hidden_motive": "Sợ sự thay đổi và muốn đóng khung mối quan hệ theo định kiến cũ.",
+      "self_deception": "Bạn cố uốn mình thành hình mẫu họ muốn để được chấp nhận.",
+      "action_advice": "Giữ vững giá trị cá nhân; đừng đánh mất bản thân vì làm vừa lòng người khác."
+    }
+  },
+  {
+    "id": "major_06",
+    "name": "The Lovers",
+    "name_vi": "Cặp Đôi",
+    "image": "assets/images/cards/Major_Arcana/06_The_Lovers.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Tương hợp & Minh bạch)",
+      "reality_check": "Gắn kết sâu sắc, tôn trọng ranh giới và rõ ràng trong tình cảm đôi bên.",
+      "hidden_motive": "Chân thành muốn đồng hành và phát triển cùng bạn.",
+      "self_deception": "Không có điểm mù lớn.",
+      "action_advice": "Nuôi dưỡng tình cảm bằng giao tiếp thẳng thắn và lắng nghe."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Lưỡng lự & Phân tâm)",
+      "reality_check": "Chưa dứt khoát với người cũ hoặc đang có nhiều sự lựa chọn mập mờ xung quanh.",
+      "hidden_motive": "Sợ bỏ lỡ cơ hội tốt hơn nên chưa muốn gắn kết hoàn toàn với ai.",
+      "self_deception": "Bạn cố gắng cạnh tranh để chứng minh mình là người xứng đáng nhất.",
+      "action_advice": "Rút lui khỏi thế cạnh tranh; chỉ đầu tư vào người chọn bạn rõ ràng."
+    }
+  },
+  {
+    "id": "major_07",
+    "name": "The Chariot",
+    "name_vi": "Chiến Xa",
+    "image": "assets/images/cards/Major_Arcana/07_The Chariot.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Bản lĩnh & Quyết tâm)",
+      "reality_check": "Nỗ lực vượt qua khó khăn để bảo vệ tình cảm, có mục tiêu rõ ràng.",
+      "hidden_motive": "Muốn chứng minh sự kiên định cùng bạn xây dựng tương lai.",
+      "self_deception": "Không có điểm mù lớn.",
+      "action_advice": "Cùng chia sẻ áp lực và đồng hành trên mục tiêu chung."
+    },
+    "reversed": {
+      "flag": "red",
+      "flag_title": "Cờ đỏ (Hiếu thắng & Bất chấp)",
+      "reality_check": "Coi việc chinh phục bạn như chiến tích, luôn muốn thắng trong mọi tranh cãi.",
+      "hidden_motive": "Thỏa mãn cái tôi chiến thắng hơn là quan tâm đến cảm xúc bạn.",
+      "self_deception": "Bạn nhầm lẫn sự hiếu thắng với tình yêu nồng nhiệt.",
+      "action_advice": "Dừng tranh cãi hơn thua; không để đối phương biến bạn thành chiến lợi phẩm."
+    }
+  },
+  {
+    "id": "major_08",
+    "name": "Strength",
+    "name_vi": "Sức Mạnh",
+    "image": "assets/images/cards/Major_Arcana/08_Strength.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Bao dung & Kiên nhẫn)",
+      "reality_check": "Làm chủ cảm xúc, hòa giải xung đột bằng sự nhẹ nhàng, không bạo lực.",
+      "hidden_motive": "Tôn trọng và thấu hiểu những điểm chưa hoàn hảo của đối phương.",
+      "self_deception": "Không có điểm mù lớn.",
+      "action_advice": "Duy trì sự điềm tĩnh và học cách lắng nghe tích cực."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Nhẫn nhịn quá mức)",
+      "reality_check": "Một bên liên tục kìm nén uất ức để giữ hòa khí, dẫn đến kiệt quệ cảm xúc.",
+      "hidden_motive": "Né tránh mâu thuẫn vì sợ mối quan hệ tan vỡ.",
+      "self_deception": "Bạn nghĩ 'chỉ cần mình nhịn thì mọi chuyện sẽ êm xuôi'.",
+      "action_advice": "Nói ra điều làm bạn khó chịu; sự nhẫn nhịn mù quáng sẽ biến thành oán hận."
+    }
+  },
+  {
+    "id": "major_09",
+    "name": "The Hermit",
+    "name_vi": "Ẩn Sĩ",
+    "image": "assets/images/cards/Major_Arcana/09_The Hermit.jpg",
+    "upright": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Thu mình & Trầm lặng)",
+      "reality_check": "Cần nhiều không gian riêng, ít khi bộc lộ tâm tư ra ngoài.",
+      "hidden_motive": "Đang tự chiêm nghiệm hoặc có áp lực cá nhân chưa giải tỏa.",
+      "self_deception": "Bạn tự trách mình làm sai khiến họ trở nên xa cách.",
+      "action_advice": "Tôn trọng không gian của họ nhưng hẹn thời điểm cụ thể để trao đổi."
+    },
+    "reversed": {
+      "flag": "red",
+      "flag_title": "Cờ đỏ (Chiến tranh lạnh & Silent Treatment)",
+      "reality_check": "Cố tình im lặng để trừng phạt cảm xúc bạn, biến mất khi có mâu thuẫn.",
+      "hidden_motive": "Dùng sự im lặng để bạn hoang mang, tự dằn vặt và phải hạ mình xin lỗi.",
+      "self_deception": "Bạn hoảng loạn tìm cách liên lạc và nhận hết lỗi về mình.",
+      "action_advice": "Không chạy theo dỗ dành khi họ cố tình dùng sự im lặng để thao túng bạn."
+    }
+  },
+  {
+    "id": "major_10",
+    "name": "Wheel of Fortune",
+    "name_vi": "Vòng Quay Số Phận",
+    "image": "assets/images/cards/Major_Arcana/10_Wheel of Fortune.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Thuận theo tự nhiên)",
+      "reality_check": "Mối quan hệ phát triển tự nhiên, cả hai cùng thích ứng linh hoạt với hoàn cảnh.",
+      "hidden_motive": "Mở lòng đón nhận cơ hội mới để hiểu nhau sâu sắc hơn.",
+      "self_deception": "Không có điểm mù lớn.",
+      "action_advice": "Giữ tâm thế cởi mở và linh hoạt cùng nhau tiến bước."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Cảm xúc thất thường)",
+      "reality_check": "Lúc nồng nhiệt hết mình, lúc lạnh nhạt vô cớ; cảm xúc trồi sụt khó lường.",
+      "hidden_motive": "Đối phương dựa hoàn toàn vào cảm xúc nhất thời mà thiếu sự kiên định.",
+      "self_deception": "Bạn nghiện cảm giác 'hàn gắn sau cãi vã' và coi đó là đam mê.",
+      "action_advice": "Xây dựng sự ổn định, không để tâm lý bị cuốn theo cảm xúc bất thường của họ."
+    }
+  },
+  {
+    "id": "major_11",
+    "name": "Justice",
+    "name_vi": "Công Lý",
+    "image": "assets/images/cards/Major_Arcana/11_Justice.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Công bằng & Minh bạch)",
+      "reality_check": "Sòng phẳng, tôn trọng sự thật, luôn thẳng thắn đối thoại khi có khúc mắc.",
+      "hidden_motive": "Mong muốn sự công bằng hai chiều và không giấu giếm điều gì.",
+      "self_deception": "Không có điểm mù lớn.",
+      "action_advice": "Duy trì sự trung thực và tôn trọng thỏa thuận chung."
+    },
+    "reversed": {
+      "flag": "red",
+      "flag_title": "Cờ đỏ (So đo & Bắt bẻ)",
+      "reality_check": "Săm soi từng lỗi nhỏ, tính toán chi li thiệt hơn từng chút một.",
+      "hidden_motive": "Luôn muốn mình ở vị thế đúng và hạ thấp công sức đóng góp của bạn.",
+      "self_deception": "Bạn căng thẳng vì luôn phải cẩn trọng từng lời ăn tiếng nói.",
+      "action_advice": "Đánh giá lại tinh thần sẻ chia; một mối quan hệ tính toán chi li khó bền lâu."
+    }
+  },
+  {
+    "id": "major_12",
+    "name": "The Hanged Man",
+    "name_vi": "Kẻ Treo Ngược",
+    "image": "assets/images/cards/Major_Arcana/12_The_Hanged_Man.jpg",
+    "upright": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Bế tắc & Chờ đợi)",
+      "reality_check": "Mối quan hệ giậm chân tại chỗ, thiếu quyết đoán, không có bước tiến rõ ràng.",
+      "hidden_motive": "Đối phương do dự hoặc chưa sẵn sàng hy sinh điều gì cho mối quan hệ.",
+      "self_deception": "Bạn hy sinh thời gian thanh xuân để chờ một lời hứa không hẹn ngày.",
+      "action_advice": "Đặt ra thời hạn cụ thể; không đánh đổi tương lai cho sự chần chừ."
+    },
+    "reversed": {
+      "flag": "red",
+      "flag_title": "Cờ đỏ (Đóng vai nạn nhân)",
+      "reality_check": "Luôn tỏ ra thiệt thòi để thao túng lòng trắc ẩn và bắt bạn chiều chuộng.",
+      "hidden_motive": "Dùng sự yếu đuối giả tạo để thoái thác trách nhiệm cá nhân.",
+      "self_deception": "Bạn cảm thấy có lỗi nếu không đáp ứng các đòi hỏi của họ.",
+      "action_advice": "Ngừng làm phao cứu sinh cho người cố tình không muốn tự đứng lên."
+    }
+  },
+  {
+    "id": "major_13",
+    "name": "Death",
+    "name_vi": "Cái Chết",
+    "image": "assets/images/cards/Major_Arcana/13_Death.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Chuyển hóa & Đổi mới)",
+      "reality_check": "Dám khép lại thói quen độc hại cũ để cùng nhau mở ra giai đoạn mới lành mạnh hơn.",
+      "hidden_motive": "Quyết tâm thay đổi vì sự tiến bộ của cả hai.",
+      "self_deception": "Không có điểm mù lớn.",
+      "action_advice": "Ủng hộ thay đổi tích cực và sẵn sàng đổi mới cách yêu."
+    },
+    "reversed": {
+      "flag": "red",
+      "flag_title": "Cờ đỏ (Mối quan hệ đã chết)",
+      "reality_check": "Mối quan hệ đã cạn kiệt cảm xúc và sự tôn trọng nhưng vẫn cố níu kéo mù quáng.",
+      "hidden_motive": "Sợ cảm giác cô đơn sau chia tay hơn là thực sự còn yêu bạn.",
+      "self_deception": "Bạn níu giữ kỷ niệm đẹp trong quá khứ dù hiện tại chỉ toàn tổn thương.",
+      "action_advice": "Dũng cảm chấp nhận kết thúc để giải phóng cho cả hai bắt đầu lại."
+    }
+  },
+  {
+    "id": "major_14",
+    "name": "Temperance",
+    "name_vi": "Tiết Độ",
+    "image": "assets/images/cards/Major_Arcana/14_Temperance.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Cân bằng & Hòa hợp)",
+      "reality_check": "Biết dung hòa cái tôi, tìm thấy tiếng nói chung khi xảy ra bất đồng.",
+      "hidden_motive": "Chân thành mong muốn mối quan hệ bình yên, lâu dài.",
+      "self_deception": "Không có điểm mù lớn.",
+      "action_advice": "Tiếp tục gìn giữ sự thấu hiểu và nhịp điệu êm đềm."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Mất cân bằng nhịp sống)",
+      "reality_check": "Khác biệt quá lớn về lối sống, thói quen chi tiêu hoặc thời gian cho nhau.",
+      "hidden_motive": "Chưa tìm được cách điều chỉnh hài hòa giữa công việc và tình cảm.",
+      "self_deception": "Bạn cố thay đổi hoàn toàn bản thân để chiều theo đối phương.",
+      "action_advice": "Thỏa thuận lại các khoảng thời gian và nguyên tắc sinh hoạt chung."
+    }
+  },
+  {
+    "id": "major_15",
+    "name": "The Devil",
+    "name_vi": "Ác Quỷ",
+    "image": "assets/images/cards/Major_Arcana/15_The_Devil.jpg",
+    "upright": {
+      "flag": "black",
+      "flag_title": "Cờ đen (Độc hại & Thao túng cực độ)",
+      "reality_check": "Giam cầm cảm xúc, kiểm soát tài chính, bạo lực tinh thần hoặc ràng buộc độc hại.",
+      "hidden_motive": "Triệt tiêu quyền tự do cá nhân, biến bạn thành đối tượng phụ thuộc hoàn toàn.",
+      "self_deception": "Bạn tự huyễn hoặc 'họ làm vậy vì ghen, vì yêu mình quá nhiều'.",
+      "action_advice": "Dừng ngay mọi thỏa hiệp; tìm sự trợ giúp bên ngoài và lên kế hoạch rút lui an toàn."
+    },
+    "reversed": {
+      "flag": "red",
+      "flag_title": "Cờ đỏ (Nhận thức được xiềng xích)",
+      "reality_check": "Bắt đầu nhìn ra sự thao túng nhưng còn ngập ngừng chưa dám bước ra.",
+      "hidden_motive": "Đối phương dùng đe dọa hoặc van xin để kéo bạn ở lại.",
+      "self_deception": "Bạn mủi lòng trước những giọt nước mắt hối hận nhất thời của kẻ thao túng.",
+      "action_advice": "Tuyệt đối không quay lại; giữ vững lập trường và cắt đứt liên lạc dứt điểm."
+    }
+  },
+  {
+    "id": "major_16",
+    "name": "The Tower",
+    "name_vi": "Tòa Tháp",
+    "image": "assets/images/cards/Major_Arcana/16_The_Tower.jpg",
+    "upright": {
+      "flag": "black",
+      "flag_title": "Cờ đen (Sụp đổ & Bội tín nghiêm trọng)",
+      "reality_check": "Sự dối trá tày đình, phản bội hoặc hành vi phi đạo đức bị phơi bày hoàn toàn.",
+      "hidden_motive": "Che đậy bản chất thật suốt thời gian dài cho đến khi vỡ lở.",
+      "self_deception": "Bạn cố gắng dán lại những mảnh vỡ của nền móng vốn đã mục rỗng.",
+      "action_advice": "Chấp nhận sự thật trần trụi; bảo vệ bản thân và không quay đầu lại."
+    },
+    "reversed": {
+      "flag": "red",
+      "flag_title": "Cờ đỏ (Né tránh khủng hoảng)",
+      "reality_check": "Biết rõ quả bom sắp nổ nhưng cả hai vẫn nhắm mắt làm ngơ.",
+      "hidden_motive": "Sợ đối diện với hậu quả thực tế của sự chia rẽ.",
+      "self_deception": "Bạn nghĩ 'nếu không nhắc lại thì chuyện đó coi như chưa xảy ra'.",
+      "action_advice": "Dũng cảm đối mặt với vấn đề cốt lõi ngay bây giờ."
+    }
+  },
+  {
+    "id": "major_17",
+    "name": "The Star",
+    "name_vi": "Ngôi Sao",
+    "image": "assets/images/cards/Major_Arcana/17_The_Star.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Hy vọng & Chữa lành)",
+      "reality_check": "Mang lại niềm tin, sự an ủi và chữa lành những tổn thương cũ.",
+      "hidden_motive": "Chân thành mong muốn bạn cảm thấy được trân trọng và hạnh phúc.",
+      "self_deception": "Không có điểm mù lớn.",
+      "action_advice": "Mở lòng đón nhận tình cảm tích cực và cùng nhau hướng tới tương lai."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Mộng mơ thiếu thực tế)",
+      "reality_check": "Vẽ ra quá nhiều viễn cảnh màu hồng mà không có kế hoạch thực hiện cụ thể.",
+      "hidden_motive": "Trốn tránh khó khăn thực tế bằng những lời hứa hẹn xa vời.",
+      "self_deception": "Bạn sống bằng niềm hy vọng viển vông thay vì nhìn vào hành động hiện tại.",
+      "action_advice": "Kéo mối quan hệ về mặt đất; yêu cầu các cam kết đo lường được."
+    }
+  },
+  {
+    "id": "major_18",
+    "name": "The Moon",
+    "name_vi": "Mặt Trăng",
+    "image": "assets/images/cards/Major_Arcana/18_The_Moon.jpg",
+    "upright": {
+      "flag": "red",
+      "flag_title": "Cờ đỏ (Mờ ám & Gaslighting)",
+      "reality_check": "Nói dối tinh vi, mập mờ, khiến bạn luôn nghi ngờ chính cảm nhận của mình.",
+      "hidden_motive": "Cố tình tạo màn sương mù thông tin để che giấu các mối quan hệ mờ ám khác.",
+      "self_deception": "Bạn tự trách mình nhạy cảm quá đà và bỏ qua chuông cảnh báo trực giác.",
+      "action_advice": "Ghi nhận bằng chứng thực tế; tin vào trực giác của mình hơn lời chối quanh."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Sự thật bắt đầu lộ diện)",
+      "reality_check": "Những mảnh ghép bất thường dần lộ tẩy, bạn bắt đầu xâu chuỗi được sự thật.",
+      "hidden_motive": "Đối phương đang lúng túng tìm lý do chống chế cho các điểm bất thường.",
+      "self_deception": "Bạn vội vã chấp nhận lời giải thích ngây thơ đầu tiên họ đưa ra.",
+      "action_advice": "Giữ bình tĩnh, quan sát tiếp và yêu cầu sự rõ ràng tuyệt đối."
+    }
+  },
+  {
+    "id": "major_19",
+    "name": "The Sun",
+    "name_vi": "Mặt Trời",
+    "image": "assets/images/cards/Major_Arcana/19_The_Sun.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Rõ ràng & Hân hoan)",
+      "reality_check": "Minh bạch tuyệt đối, năng lượng tích cực, yêu thương không toan tính.",
+      "hidden_motive": "Muốn chia sẻ mọi niềm vui và cùng bạn tỏa sáng.",
+      "self_deception": "Không có điểm mù tiêu cực.",
+      "action_advice": "Trân trọng và cùng nhau vun đắp tình cảm tốt đẹp."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Tích cực độc hại)",
+      "reality_check": "Cố tình tươi cười né tránh mọi cuộc đối thoại nghiêm túc khi có bất đồng.",
+      "hidden_motive": "Sợ sự u ám làm hỏng vẻ ngoài hoàn hảo của mối quan hệ.",
+      "self_deception": "Bạn kìm nén nỗi buồn vì sợ bị coi là người tiêu cực, phiền phức.",
+      "action_advice": "Cho phép bản thân và đối phương được thể hiện cảm xúc chân thật, kể cả lúc yếu lòng."
+    }
+  },
+  {
+    "id": "major_20",
+    "name": "Judgement",
+    "name_vi": "Phán Xét",
+    "image": "assets/images/cards/Major_Arcana/20_Judgement.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Tỉnh thức & Thay đổi)",
+      "reality_check": "Cả hai nhìn thấu sai lầm cũ và sẵn sàng chịu trách nhiệm nâng cấp mối quan hệ.",
+      "hidden_motive": "Thực sự muốn chuộc lỗi và xây dựng lại từ nền tảng trung thực.",
+      "self_deception": "Không có điểm mù lớn.",
+      "action_advice": "Đặt ra các nguyên tắc mới và cùng theo dõi sự cải thiện từng ngày."
+    },
+    "reversed": {
+      "flag": "red",
+      "flag_title": "Cờ đỏ (Bới móc & Phán xét cay nghiệt)",
+      "reality_check": "Luôn nhắc lại lỗi lầm quá khứ của bạn để chèn ép và thao túng tâm lý.",
+      "hidden_motive": "Dùng lỗi cũ làm đòn bẩy để nắm quyền kiểm soát và bắt bạn phục tùng.",
+      "self_deception": "Bạn luôn sống trong mặc cảm tội lỗi và nghĩ mình không xứng đáng được tôn trọng.",
+      "action_advice": "Từ chối việc bị đem lỗi lầm ra làm công cụ trừng phạt tinh thần triền miên."
+    }
+  },
+  {
+    "id": "major_21",
+    "name": "The World",
+    "name_vi": "Thế Giới",
+    "image": "assets/images/cards/Major_Arcana/21_The World.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Trọn vẹn & Bền vững)",
+      "reality_check": "Mối quan hệ viên mãn, hiểu nhau sâu sắc và sẵn sàng cho cam kết bền lâu.",
+      "hidden_motive": "Xem bạn là mảnh ghép hoàn hảo và muốn cùng nhau đi đến cuối con đường.",
+      "self_deception": "Không có điểm mù lớn.",
+      "action_advice": "Tự tin bước vào giai đoạn cam kết lâu dài cùng nhau."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Dở dang thiếu dứt khoát)",
+      "reality_check": "Luôn có một rào cản cuối cùng chưa thể vượt qua (gia đình, địa lý hoặc sự chần chừ).",
+      "hidden_motive": "Chưa dám đặt dấu chấm hết cho giai đoạn thử nghiệm để tiến tới cam kết thật sự.",
+      "self_deception": "Bạn hài lòng với sự nửa vời và sợ hãi bước chuyển biến mới.",
+      "action_advice": "Xác định rõ ràng: hoặc cùng nhau bước tiếp một bước lớn, hoặc dừng lại để không mất thời gian."
+    }
+  },
+  {
+    "id": "cups_01",
+    "name": "Ace of Cups",
+    "name_vi": "Át Ly",
+    "arcana": "minor",
+    "suit": "cups",
+    "image": "assets/images/cards/Minor_Arcana/Cups/Cups01.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Tình cảm chân thành)",
+      "reality_check": "Cảm xúc đang là trọng tâm; sự thấu hiểu và kết nối tinh thần giữa hai người.",
+      "hidden_motive": "Mong muốn được yêu thương và chia sẻ cảm xúc một cách an toàn.",
+      "self_deception": "Bạn dễ đồng hóa cảm xúc của họ thành cảm xúc của chính mình.",
+      "action_advice": "Lắng nghe chân thành nhưng vẫn giữ sự độc lập về tâm lý."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Cảm xúc chưa đồng điệu)",
+      "reality_check": "Có sự hụt hẫng hoặc thiếu vắng sự chia sẻ cảm xúc hai chiều.",
+      "hidden_motive": "Đối phương đang khép lòng hoặc chưa sẵn sàng cho đi trọn vẹn.",
+      "self_deception": "Bạn cho rằng mình chưa đủ tốt nên họ mới lạnh nhạt.",
+      "action_advice": "Dành thời gian chăm sóc cảm xúc cá nhân thay vì chỉ chạy theo họ."
+    }
+  },
+  {
+    "id": "cups_02",
+    "name": "Two of Cups",
+    "name_vi": "Hai Ly",
+    "arcana": "minor",
+    "suit": "cups",
+    "image": "assets/images/cards/Minor_Arcana/Cups/Cups02.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Tình cảm chân thành)",
+      "reality_check": "Cảm xúc đang là trọng tâm; sự thấu hiểu và kết nối tinh thần giữa hai người.",
+      "hidden_motive": "Mong muốn được yêu thương và chia sẻ cảm xúc một cách an toàn.",
+      "self_deception": "Bạn dễ đồng hóa cảm xúc của họ thành cảm xúc của chính mình.",
+      "action_advice": "Lắng nghe chân thành nhưng vẫn giữ sự độc lập về tâm lý."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Cảm xúc chưa đồng điệu)",
+      "reality_check": "Có sự hụt hẫng hoặc thiếu vắng sự chia sẻ cảm xúc hai chiều.",
+      "hidden_motive": "Đối phương đang khép lòng hoặc chưa sẵn sàng cho đi trọn vẹn.",
+      "self_deception": "Bạn cho rằng mình chưa đủ tốt nên họ mới lạnh nhạt.",
+      "action_advice": "Dành thời gian chăm sóc cảm xúc cá nhân thay vì chỉ chạy theo họ."
+    }
+  },
+  {
+    "id": "cups_03",
+    "name": "Three of Cups",
+    "name_vi": "Ba Ly",
+    "arcana": "minor",
+    "suit": "cups",
+    "image": "assets/images/cards/Minor_Arcana/Cups/Cups03.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Tình cảm chân thành)",
+      "reality_check": "Cảm xúc đang là trọng tâm; sự thấu hiểu và kết nối tinh thần giữa hai người.",
+      "hidden_motive": "Mong muốn được yêu thương và chia sẻ cảm xúc một cách an toàn.",
+      "self_deception": "Bạn dễ đồng hóa cảm xúc của họ thành cảm xúc của chính mình.",
+      "action_advice": "Lắng nghe chân thành nhưng vẫn giữ sự độc lập về tâm lý."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Cảm xúc chưa đồng điệu)",
+      "reality_check": "Có sự hụt hẫng hoặc thiếu vắng sự chia sẻ cảm xúc hai chiều.",
+      "hidden_motive": "Đối phương đang khép lòng hoặc chưa sẵn sàng cho đi trọn vẹn.",
+      "self_deception": "Bạn cho rằng mình chưa đủ tốt nên họ mới lạnh nhạt.",
+      "action_advice": "Dành thời gian chăm sóc cảm xúc cá nhân thay vì chỉ chạy theo họ."
+    }
+  },
+  {
+    "id": "cups_04",
+    "name": "Four of Cups",
+    "name_vi": "Bốn Ly",
+    "arcana": "minor",
+    "suit": "cups",
+    "image": "assets/images/cards/Minor_Arcana/Cups/Cups04.jpg",
+    "upright": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Chán nản hoặc Mộng tưởng)",
+      "reality_check": "Cảm xúc đang là trọng tâm; sự thấu hiểu và kết nối tinh thần giữa hai người.",
+      "hidden_motive": "Mong muốn được yêu thương và chia sẻ cảm xúc một cách an toàn.",
+      "self_deception": "Bạn dễ đồng hóa cảm xúc của họ thành cảm xúc của chính mình.",
+      "action_advice": "Lắng nghe chân thành nhưng vẫn giữ sự độc lập về tâm lý."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Chần chừ buông bỏ)",
+      "reality_check": "Có sự hụt hẫng hoặc thiếu vắng sự chia sẻ cảm xúc hai chiều.",
+      "hidden_motive": "Đối phương đang khép lòng hoặc chưa sẵn sàng cho đi trọn vẹn.",
+      "self_deception": "Bạn cho rằng mình chưa đủ tốt nên họ mới lạnh nhạt.",
+      "action_advice": "Dành thời gian chăm sóc cảm xúc cá nhân thay vì chỉ chạy theo họ."
+    }
+  },
+  {
+    "id": "cups_05",
+    "name": "Five of Cups",
+    "name_vi": "Năm Ly",
+    "arcana": "minor",
+    "suit": "cups",
+    "image": "assets/images/cards/Minor_Arcana/Cups/Cups05.jpg",
+    "upright": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Chán nản hoặc Mộng tưởng)",
+      "reality_check": "Cảm xúc đang là trọng tâm; sự thấu hiểu và kết nối tinh thần giữa hai người.",
+      "hidden_motive": "Mong muốn được yêu thương và chia sẻ cảm xúc một cách an toàn.",
+      "self_deception": "Bạn dễ đồng hóa cảm xúc của họ thành cảm xúc của chính mình.",
+      "action_advice": "Lắng nghe chân thành nhưng vẫn giữ sự độc lập về tâm lý."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Chần chừ buông bỏ)",
+      "reality_check": "Có sự hụt hẫng hoặc thiếu vắng sự chia sẻ cảm xúc hai chiều.",
+      "hidden_motive": "Đối phương đang khép lòng hoặc chưa sẵn sàng cho đi trọn vẹn.",
+      "self_deception": "Bạn cho rằng mình chưa đủ tốt nên họ mới lạnh nhạt.",
+      "action_advice": "Dành thời gian chăm sóc cảm xúc cá nhân thay vì chỉ chạy theo họ."
+    }
+  },
+  {
+    "id": "cups_06",
+    "name": "Six of Cups",
+    "name_vi": "Sáu Ly",
+    "arcana": "minor",
+    "suit": "cups",
+    "image": "assets/images/cards/Minor_Arcana/Cups/Cups06.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Tình cảm chân thành)",
+      "reality_check": "Cảm xúc đang là trọng tâm; sự thấu hiểu và kết nối tinh thần giữa hai người.",
+      "hidden_motive": "Mong muốn được yêu thương và chia sẻ cảm xúc một cách an toàn.",
+      "self_deception": "Bạn dễ đồng hóa cảm xúc của họ thành cảm xúc của chính mình.",
+      "action_advice": "Lắng nghe chân thành nhưng vẫn giữ sự độc lập về tâm lý."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Cảm xúc chưa đồng điệu)",
+      "reality_check": "Có sự hụt hẫng hoặc thiếu vắng sự chia sẻ cảm xúc hai chiều.",
+      "hidden_motive": "Đối phương đang khép lòng hoặc chưa sẵn sàng cho đi trọn vẹn.",
+      "self_deception": "Bạn cho rằng mình chưa đủ tốt nên họ mới lạnh nhạt.",
+      "action_advice": "Dành thời gian chăm sóc cảm xúc cá nhân thay vì chỉ chạy theo họ."
+    }
+  },
+  {
+    "id": "cups_07",
+    "name": "Seven of Cups",
+    "name_vi": "Bảy Ly",
+    "arcana": "minor",
+    "suit": "cups",
+    "image": "assets/images/cards/Minor_Arcana/Cups/Cups07.jpg",
+    "upright": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Chán nản hoặc Mộng tưởng)",
+      "reality_check": "Cảm xúc đang là trọng tâm; sự thấu hiểu và kết nối tinh thần giữa hai người.",
+      "hidden_motive": "Mong muốn được yêu thương và chia sẻ cảm xúc một cách an toàn.",
+      "self_deception": "Bạn dễ đồng hóa cảm xúc của họ thành cảm xúc của chính mình.",
+      "action_advice": "Lắng nghe chân thành nhưng vẫn giữ sự độc lập về tâm lý."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Chần chừ buông bỏ)",
+      "reality_check": "Có sự hụt hẫng hoặc thiếu vắng sự chia sẻ cảm xúc hai chiều.",
+      "hidden_motive": "Đối phương đang khép lòng hoặc chưa sẵn sàng cho đi trọn vẹn.",
+      "self_deception": "Bạn cho rằng mình chưa đủ tốt nên họ mới lạnh nhạt.",
+      "action_advice": "Dành thời gian chăm sóc cảm xúc cá nhân thay vì chỉ chạy theo họ."
+    }
+  },
+  {
+    "id": "cups_08",
+    "name": "Eight of Cups",
+    "name_vi": "Tám Ly",
+    "arcana": "minor",
+    "suit": "cups",
+    "image": "assets/images/cards/Minor_Arcana/Cups/Cups08.jpg",
+    "upright": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Chán nản hoặc Mộng tưởng)",
+      "reality_check": "Cảm xúc đang là trọng tâm; sự thấu hiểu và kết nối tinh thần giữa hai người.",
+      "hidden_motive": "Mong muốn được yêu thương và chia sẻ cảm xúc một cách an toàn.",
+      "self_deception": "Bạn dễ đồng hóa cảm xúc của họ thành cảm xúc của chính mình.",
+      "action_advice": "Lắng nghe chân thành nhưng vẫn giữ sự độc lập về tâm lý."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Chần chừ buông bỏ)",
+      "reality_check": "Có sự hụt hẫng hoặc thiếu vắng sự chia sẻ cảm xúc hai chiều.",
+      "hidden_motive": "Đối phương đang khép lòng hoặc chưa sẵn sàng cho đi trọn vẹn.",
+      "self_deception": "Bạn cho rằng mình chưa đủ tốt nên họ mới lạnh nhạt.",
+      "action_advice": "Dành thời gian chăm sóc cảm xúc cá nhân thay vì chỉ chạy theo họ."
+    }
+  },
+  {
+    "id": "cups_09",
+    "name": "Nine of Cups",
+    "name_vi": "Chín Ly",
+    "arcana": "minor",
+    "suit": "cups",
+    "image": "assets/images/cards/Minor_Arcana/Cups/Cups09.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Tình cảm chân thành)",
+      "reality_check": "Cảm xúc đang là trọng tâm; sự thấu hiểu và kết nối tinh thần giữa hai người.",
+      "hidden_motive": "Mong muốn được yêu thương và chia sẻ cảm xúc một cách an toàn.",
+      "self_deception": "Bạn dễ đồng hóa cảm xúc của họ thành cảm xúc của chính mình.",
+      "action_advice": "Lắng nghe chân thành nhưng vẫn giữ sự độc lập về tâm lý."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Cảm xúc chưa đồng điệu)",
+      "reality_check": "Có sự hụt hẫng hoặc thiếu vắng sự chia sẻ cảm xúc hai chiều.",
+      "hidden_motive": "Đối phương đang khép lòng hoặc chưa sẵn sàng cho đi trọn vẹn.",
+      "self_deception": "Bạn cho rằng mình chưa đủ tốt nên họ mới lạnh nhạt.",
+      "action_advice": "Dành thời gian chăm sóc cảm xúc cá nhân thay vì chỉ chạy theo họ."
+    }
+  },
+  {
+    "id": "cups_10",
+    "name": "Ten of Cups",
+    "name_vi": "Mười Ly",
+    "arcana": "minor",
+    "suit": "cups",
+    "image": "assets/images/cards/Minor_Arcana/Cups/Cups10.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Tình cảm chân thành)",
+      "reality_check": "Cảm xúc đang là trọng tâm; sự thấu hiểu và kết nối tinh thần giữa hai người.",
+      "hidden_motive": "Mong muốn được yêu thương và chia sẻ cảm xúc một cách an toàn.",
+      "self_deception": "Bạn dễ đồng hóa cảm xúc của họ thành cảm xúc của chính mình.",
+      "action_advice": "Lắng nghe chân thành nhưng vẫn giữ sự độc lập về tâm lý."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Cảm xúc chưa đồng điệu)",
+      "reality_check": "Có sự hụt hẫng hoặc thiếu vắng sự chia sẻ cảm xúc hai chiều.",
+      "hidden_motive": "Đối phương đang khép lòng hoặc chưa sẵn sàng cho đi trọn vẹn.",
+      "self_deception": "Bạn cho rằng mình chưa đủ tốt nên họ mới lạnh nhạt.",
+      "action_advice": "Dành thời gian chăm sóc cảm xúc cá nhân thay vì chỉ chạy theo họ."
+    }
+  },
+  {
+    "id": "cups_11",
+    "name": "Page of Cups",
+    "name_vi": "Tiểu Đồng Ly",
+    "arcana": "minor",
+    "suit": "cups",
+    "image": "assets/images/cards/Minor_Arcana/Cups/Cups11.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Tình cảm chân thành)",
+      "reality_check": "Cảm xúc đang là trọng tâm; sự thấu hiểu và kết nối tinh thần giữa hai người.",
+      "hidden_motive": "Mong muốn được yêu thương và chia sẻ cảm xúc một cách an toàn.",
+      "self_deception": "Bạn dễ đồng hóa cảm xúc của họ thành cảm xúc của chính mình.",
+      "action_advice": "Lắng nghe chân thành nhưng vẫn giữ sự độc lập về tâm lý."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Cảm xúc chưa đồng điệu)",
+      "reality_check": "Có sự hụt hẫng hoặc thiếu vắng sự chia sẻ cảm xúc hai chiều.",
+      "hidden_motive": "Đối phương đang khép lòng hoặc chưa sẵn sàng cho đi trọn vẹn.",
+      "self_deception": "Bạn cho rằng mình chưa đủ tốt nên họ mới lạnh nhạt.",
+      "action_advice": "Dành thời gian chăm sóc cảm xúc cá nhân thay vì chỉ chạy theo họ."
+    }
+  },
+  {
+    "id": "cups_12",
+    "name": "Knight of Cups",
+    "name_vi": "Hiệp Sĩ Ly",
+    "arcana": "minor",
+    "suit": "cups",
+    "image": "assets/images/cards/Minor_Arcana/Cups/Cups12.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Tình cảm chân thành)",
+      "reality_check": "Cảm xúc đang là trọng tâm; sự thấu hiểu và kết nối tinh thần giữa hai người.",
+      "hidden_motive": "Mong muốn được yêu thương và chia sẻ cảm xúc một cách an toàn.",
+      "self_deception": "Bạn dễ đồng hóa cảm xúc của họ thành cảm xúc của chính mình.",
+      "action_advice": "Lắng nghe chân thành nhưng vẫn giữ sự độc lập về tâm lý."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Cảm xúc chưa đồng điệu)",
+      "reality_check": "Có sự hụt hẫng hoặc thiếu vắng sự chia sẻ cảm xúc hai chiều.",
+      "hidden_motive": "Đối phương đang khép lòng hoặc chưa sẵn sàng cho đi trọn vẹn.",
+      "self_deception": "Bạn cho rằng mình chưa đủ tốt nên họ mới lạnh nhạt.",
+      "action_advice": "Dành thời gian chăm sóc cảm xúc cá nhân thay vì chỉ chạy theo họ."
+    }
+  },
+  {
+    "id": "cups_13",
+    "name": "Queen of Cups",
+    "name_vi": "Hoàng Hậu Ly",
+    "arcana": "minor",
+    "suit": "cups",
+    "image": "assets/images/cards/Minor_Arcana/Cups/Cups13.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Tình cảm chân thành)",
+      "reality_check": "Cảm xúc đang là trọng tâm; sự thấu hiểu và kết nối tinh thần giữa hai người.",
+      "hidden_motive": "Mong muốn được yêu thương và chia sẻ cảm xúc một cách an toàn.",
+      "self_deception": "Bạn dễ đồng hóa cảm xúc của họ thành cảm xúc của chính mình.",
+      "action_advice": "Lắng nghe chân thành nhưng vẫn giữ sự độc lập về tâm lý."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Cảm xúc chưa đồng điệu)",
+      "reality_check": "Có sự hụt hẫng hoặc thiếu vắng sự chia sẻ cảm xúc hai chiều.",
+      "hidden_motive": "Đối phương đang khép lòng hoặc chưa sẵn sàng cho đi trọn vẹn.",
+      "self_deception": "Bạn cho rằng mình chưa đủ tốt nên họ mới lạnh nhạt.",
+      "action_advice": "Dành thời gian chăm sóc cảm xúc cá nhân thay vì chỉ chạy theo họ."
+    }
+  },
+  {
+    "id": "cups_14",
+    "name": "King of Cups",
+    "name_vi": "Vua Ly",
+    "arcana": "minor",
+    "suit": "cups",
+    "image": "assets/images/cards/Minor_Arcana/Cups/Cups14.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Tình cảm chân thành)",
+      "reality_check": "Cảm xúc đang là trọng tâm; sự thấu hiểu và kết nối tinh thần giữa hai người.",
+      "hidden_motive": "Mong muốn được yêu thương và chia sẻ cảm xúc một cách an toàn.",
+      "self_deception": "Bạn dễ đồng hóa cảm xúc của họ thành cảm xúc của chính mình.",
+      "action_advice": "Lắng nghe chân thành nhưng vẫn giữ sự độc lập về tâm lý."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Cảm xúc chưa đồng điệu)",
+      "reality_check": "Có sự hụt hẫng hoặc thiếu vắng sự chia sẻ cảm xúc hai chiều.",
+      "hidden_motive": "Đối phương đang khép lòng hoặc chưa sẵn sàng cho đi trọn vẹn.",
+      "self_deception": "Bạn cho rằng mình chưa đủ tốt nên họ mới lạnh nhạt.",
+      "action_advice": "Dành thời gian chăm sóc cảm xúc cá nhân thay vì chỉ chạy theo họ."
+    }
+  },
+  {
+    "id": "pentacles_01",
+    "name": "Ace of Pentacles",
+    "name_vi": "Át Tiền",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "image": "assets/images/cards/Minor_Arcana/Pentacles/Pents01.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Vững chắc & Thực tế)",
+      "reality_check": "Các yếu tố thực tế như tiền bạc, thời gian và công sức đang tác động rõ rệt.",
+      "hidden_motive": "Tìm kiếm sự ổn định, tin cậy và cam kết bằng hành động đo lường được.",
+      "self_deception": "Bạn coi nhẹ các vấn đề cơm áo gạo tiền trong tình cảm.",
+      "action_advice": "Thảo luận minh bạch về trách nhiệm tài chính và đóng góp công sức."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Bất ổn tài chính/kế hoạch)",
+      "reality_check": "Có sự chênh lệch hoặc toan tính vật chất bắt đầu xuất hiện.",
+      "hidden_motive": "Đang cân nhắc lợi ích cá nhân nhiều hơn là tương lai chung.",
+      "self_deception": "Bạn tin rằng tiền bạc không bao giờ làm rạn nứt tình yêu.",
+      "action_advice": "Giữ tự chủ tài chính; không nhập nhằng tiền bạc khi chưa có cam kết pháp lý."
+    }
+  },
+  {
+    "id": "pentacles_02",
+    "name": "Two of Pentacles",
+    "name_vi": "Hai Tiền",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "image": "assets/images/cards/Minor_Arcana/Pentacles/Pents02.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Vững chắc & Thực tế)",
+      "reality_check": "Các yếu tố thực tế như tiền bạc, thời gian và công sức đang tác động rõ rệt.",
+      "hidden_motive": "Tìm kiếm sự ổn định, tin cậy và cam kết bằng hành động đo lường được.",
+      "self_deception": "Bạn coi nhẹ các vấn đề cơm áo gạo tiền trong tình cảm.",
+      "action_advice": "Thảo luận minh bạch về trách nhiệm tài chính và đóng góp công sức."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Bất ổn tài chính/kế hoạch)",
+      "reality_check": "Có sự chênh lệch hoặc toan tính vật chất bắt đầu xuất hiện.",
+      "hidden_motive": "Đang cân nhắc lợi ích cá nhân nhiều hơn là tương lai chung.",
+      "self_deception": "Bạn tin rằng tiền bạc không bao giờ làm rạn nứt tình yêu.",
+      "action_advice": "Giữ tự chủ tài chính; không nhập nhằng tiền bạc khi chưa có cam kết pháp lý."
+    }
+  },
+  {
+    "id": "pentacles_03",
+    "name": "Three of Pentacles",
+    "name_vi": "Ba Tiền",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "image": "assets/images/cards/Minor_Arcana/Pentacles/Pents03.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Vững chắc & Thực tế)",
+      "reality_check": "Các yếu tố thực tế như tiền bạc, thời gian và công sức đang tác động rõ rệt.",
+      "hidden_motive": "Tìm kiếm sự ổn định, tin cậy và cam kết bằng hành động đo lường được.",
+      "self_deception": "Bạn coi nhẹ các vấn đề cơm áo gạo tiền trong tình cảm.",
+      "action_advice": "Thảo luận minh bạch về trách nhiệm tài chính và đóng góp công sức."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Bất ổn tài chính/kế hoạch)",
+      "reality_check": "Có sự chênh lệch hoặc toan tính vật chất bắt đầu xuất hiện.",
+      "hidden_motive": "Đang cân nhắc lợi ích cá nhân nhiều hơn là tương lai chung.",
+      "self_deception": "Bạn tin rằng tiền bạc không bao giờ làm rạn nứt tình yêu.",
+      "action_advice": "Giữ tự chủ tài chính; không nhập nhằng tiền bạc khi chưa có cam kết pháp lý."
+    }
+  },
+  {
+    "id": "pentacles_04",
+    "name": "Four of Pentacles",
+    "name_vi": "Bốn Tiền",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "image": "assets/images/cards/Minor_Arcana/Pentacles/Pents04.jpg",
+    "upright": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Cần cân đối nguồn lực)",
+      "reality_check": "Các yếu tố thực tế như tiền bạc, thời gian và công sức đang tác động rõ rệt.",
+      "hidden_motive": "Tìm kiếm sự ổn định, tin cậy và cam kết bằng hành động đo lường được.",
+      "self_deception": "Bạn coi nhẹ các vấn đề cơm áo gạo tiền trong tình cảm.",
+      "action_advice": "Thảo luận minh bạch về trách nhiệm tài chính và đóng góp công sức."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Thiếu kiên nhẫn)",
+      "reality_check": "Có sự chênh lệch hoặc toan tính vật chất bắt đầu xuất hiện.",
+      "hidden_motive": "Đang cân nhắc lợi ích cá nhân nhiều hơn là tương lai chung.",
+      "self_deception": "Bạn tin rằng tiền bạc không bao giờ làm rạn nứt tình yêu.",
+      "action_advice": "Giữ tự chủ tài chính; không nhập nhằng tiền bạc khi chưa có cam kết pháp lý."
+    }
+  },
+  {
+    "id": "pentacles_05",
+    "name": "Five of Pentacles",
+    "name_vi": "Năm Tiền",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "image": "assets/images/cards/Minor_Arcana/Pentacles/Pents05.jpg",
+    "upright": {
+      "flag": "red",
+      "flag_title": "Cờ đỏ (Thiếu thốn & Bỏ rơi)",
+      "reality_check": "Các yếu tố thực tế như tiền bạc, thời gian và công sức đang tác động rõ rệt.",
+      "hidden_motive": "Tìm kiếm sự ổn định, tin cậy và cam kết bằng hành động đo lường được.",
+      "self_deception": "Bạn coi nhẹ các vấn đề cơm áo gạo tiền trong tình cảm.",
+      "action_advice": "Thảo luận minh bạch về trách nhiệm tài chính và đóng góp công sức."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Khó khăn tạm thời)",
+      "reality_check": "Có sự chênh lệch hoặc toan tính vật chất bắt đầu xuất hiện.",
+      "hidden_motive": "Đang cân nhắc lợi ích cá nhân nhiều hơn là tương lai chung.",
+      "self_deception": "Bạn tin rằng tiền bạc không bao giờ làm rạn nứt tình yêu.",
+      "action_advice": "Giữ tự chủ tài chính; không nhập nhằng tiền bạc khi chưa có cam kết pháp lý."
+    }
+  },
+  {
+    "id": "pentacles_06",
+    "name": "Six of Pentacles",
+    "name_vi": "Sáu Tiền",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "image": "assets/images/cards/Minor_Arcana/Pentacles/Pents06.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Vững chắc & Thực tế)",
+      "reality_check": "Các yếu tố thực tế như tiền bạc, thời gian và công sức đang tác động rõ rệt.",
+      "hidden_motive": "Tìm kiếm sự ổn định, tin cậy và cam kết bằng hành động đo lường được.",
+      "self_deception": "Bạn coi nhẹ các vấn đề cơm áo gạo tiền trong tình cảm.",
+      "action_advice": "Thảo luận minh bạch về trách nhiệm tài chính và đóng góp công sức."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Bất ổn tài chính/kế hoạch)",
+      "reality_check": "Có sự chênh lệch hoặc toan tính vật chất bắt đầu xuất hiện.",
+      "hidden_motive": "Đang cân nhắc lợi ích cá nhân nhiều hơn là tương lai chung.",
+      "self_deception": "Bạn tin rằng tiền bạc không bao giờ làm rạn nứt tình yêu.",
+      "action_advice": "Giữ tự chủ tài chính; không nhập nhằng tiền bạc khi chưa có cam kết pháp lý."
+    }
+  },
+  {
+    "id": "pentacles_07",
+    "name": "Seven of Pentacles",
+    "name_vi": "Bảy Tiền",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "image": "assets/images/cards/Minor_Arcana/Pentacles/Pents07.jpg",
+    "upright": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Cần cân đối nguồn lực)",
+      "reality_check": "Các yếu tố thực tế như tiền bạc, thời gian và công sức đang tác động rõ rệt.",
+      "hidden_motive": "Tìm kiếm sự ổn định, tin cậy và cam kết bằng hành động đo lường được.",
+      "self_deception": "Bạn coi nhẹ các vấn đề cơm áo gạo tiền trong tình cảm.",
+      "action_advice": "Thảo luận minh bạch về trách nhiệm tài chính và đóng góp công sức."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Thiếu kiên nhẫn)",
+      "reality_check": "Có sự chênh lệch hoặc toan tính vật chất bắt đầu xuất hiện.",
+      "hidden_motive": "Đang cân nhắc lợi ích cá nhân nhiều hơn là tương lai chung.",
+      "self_deception": "Bạn tin rằng tiền bạc không bao giờ làm rạn nứt tình yêu.",
+      "action_advice": "Giữ tự chủ tài chính; không nhập nhằng tiền bạc khi chưa có cam kết pháp lý."
+    }
+  },
+  {
+    "id": "pentacles_08",
+    "name": "Eight of Pentacles",
+    "name_vi": "Tám Tiền",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "image": "assets/images/cards/Minor_Arcana/Pentacles/Pents08.jpg",
+    "upright": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Cần cân đối nguồn lực)",
+      "reality_check": "Các yếu tố thực tế như tiền bạc, thời gian và công sức đang tác động rõ rệt.",
+      "hidden_motive": "Tìm kiếm sự ổn định, tin cậy và cam kết bằng hành động đo lường được.",
+      "self_deception": "Bạn coi nhẹ các vấn đề cơm áo gạo tiền trong tình cảm.",
+      "action_advice": "Thảo luận minh bạch về trách nhiệm tài chính và đóng góp công sức."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Thiếu kiên nhẫn)",
+      "reality_check": "Có sự chênh lệch hoặc toan tính vật chất bắt đầu xuất hiện.",
+      "hidden_motive": "Đang cân nhắc lợi ích cá nhân nhiều hơn là tương lai chung.",
+      "self_deception": "Bạn tin rằng tiền bạc không bao giờ làm rạn nứt tình yêu.",
+      "action_advice": "Giữ tự chủ tài chính; không nhập nhằng tiền bạc khi chưa có cam kết pháp lý."
+    }
+  },
+  {
+    "id": "pentacles_09",
+    "name": "Nine of Pentacles",
+    "name_vi": "Chín Tiền",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "image": "assets/images/cards/Minor_Arcana/Pentacles/Pents09.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Vững chắc & Thực tế)",
+      "reality_check": "Các yếu tố thực tế như tiền bạc, thời gian và công sức đang tác động rõ rệt.",
+      "hidden_motive": "Tìm kiếm sự ổn định, tin cậy và cam kết bằng hành động đo lường được.",
+      "self_deception": "Bạn coi nhẹ các vấn đề cơm áo gạo tiền trong tình cảm.",
+      "action_advice": "Thảo luận minh bạch về trách nhiệm tài chính và đóng góp công sức."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Bất ổn tài chính/kế hoạch)",
+      "reality_check": "Có sự chênh lệch hoặc toan tính vật chất bắt đầu xuất hiện.",
+      "hidden_motive": "Đang cân nhắc lợi ích cá nhân nhiều hơn là tương lai chung.",
+      "self_deception": "Bạn tin rằng tiền bạc không bao giờ làm rạn nứt tình yêu.",
+      "action_advice": "Giữ tự chủ tài chính; không nhập nhằng tiền bạc khi chưa có cam kết pháp lý."
+    }
+  },
+  {
+    "id": "pentacles_10",
+    "name": "Ten of Pentacles",
+    "name_vi": "Mười Tiền",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "image": "assets/images/cards/Minor_Arcana/Pentacles/Pents10.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Vững chắc & Thực tế)",
+      "reality_check": "Các yếu tố thực tế như tiền bạc, thời gian và công sức đang tác động rõ rệt.",
+      "hidden_motive": "Tìm kiếm sự ổn định, tin cậy và cam kết bằng hành động đo lường được.",
+      "self_deception": "Bạn coi nhẹ các vấn đề cơm áo gạo tiền trong tình cảm.",
+      "action_advice": "Thảo luận minh bạch về trách nhiệm tài chính và đóng góp công sức."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Bất ổn tài chính/kế hoạch)",
+      "reality_check": "Có sự chênh lệch hoặc toan tính vật chất bắt đầu xuất hiện.",
+      "hidden_motive": "Đang cân nhắc lợi ích cá nhân nhiều hơn là tương lai chung.",
+      "self_deception": "Bạn tin rằng tiền bạc không bao giờ làm rạn nứt tình yêu.",
+      "action_advice": "Giữ tự chủ tài chính; không nhập nhằng tiền bạc khi chưa có cam kết pháp lý."
+    }
+  },
+  {
+    "id": "pentacles_11",
+    "name": "Page of Pentacles",
+    "name_vi": "Tiểu Đồng Tiền",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "image": "assets/images/cards/Minor_Arcana/Pentacles/Pents11.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Vững chắc & Thực tế)",
+      "reality_check": "Các yếu tố thực tế như tiền bạc, thời gian và công sức đang tác động rõ rệt.",
+      "hidden_motive": "Tìm kiếm sự ổn định, tin cậy và cam kết bằng hành động đo lường được.",
+      "self_deception": "Bạn coi nhẹ các vấn đề cơm áo gạo tiền trong tình cảm.",
+      "action_advice": "Thảo luận minh bạch về trách nhiệm tài chính và đóng góp công sức."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Bất ổn tài chính/kế hoạch)",
+      "reality_check": "Có sự chênh lệch hoặc toan tính vật chất bắt đầu xuất hiện.",
+      "hidden_motive": "Đang cân nhắc lợi ích cá nhân nhiều hơn là tương lai chung.",
+      "self_deception": "Bạn tin rằng tiền bạc không bao giờ làm rạn nứt tình yêu.",
+      "action_advice": "Giữ tự chủ tài chính; không nhập nhằng tiền bạc khi chưa có cam kết pháp lý."
+    }
+  },
+  {
+    "id": "pentacles_12",
+    "name": "Knight of Pentacles",
+    "name_vi": "Hiệp Sĩ Tiền",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "image": "assets/images/cards/Minor_Arcana/Pentacles/Pents12.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Vững chắc & Thực tế)",
+      "reality_check": "Các yếu tố thực tế như tiền bạc, thời gian và công sức đang tác động rõ rệt.",
+      "hidden_motive": "Tìm kiếm sự ổn định, tin cậy và cam kết bằng hành động đo lường được.",
+      "self_deception": "Bạn coi nhẹ các vấn đề cơm áo gạo tiền trong tình cảm.",
+      "action_advice": "Thảo luận minh bạch về trách nhiệm tài chính và đóng góp công sức."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Bất ổn tài chính/kế hoạch)",
+      "reality_check": "Có sự chênh lệch hoặc toan tính vật chất bắt đầu xuất hiện.",
+      "hidden_motive": "Đang cân nhắc lợi ích cá nhân nhiều hơn là tương lai chung.",
+      "self_deception": "Bạn tin rằng tiền bạc không bao giờ làm rạn nứt tình yêu.",
+      "action_advice": "Giữ tự chủ tài chính; không nhập nhằng tiền bạc khi chưa có cam kết pháp lý."
+    }
+  },
+  {
+    "id": "pentacles_13",
+    "name": "Queen of Pentacles",
+    "name_vi": "Hoàng Hậu Tiền",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "image": "assets/images/cards/Minor_Arcana/Pentacles/Pents13.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Vững chắc & Thực tế)",
+      "reality_check": "Các yếu tố thực tế như tiền bạc, thời gian và công sức đang tác động rõ rệt.",
+      "hidden_motive": "Tìm kiếm sự ổn định, tin cậy và cam kết bằng hành động đo lường được.",
+      "self_deception": "Bạn coi nhẹ các vấn đề cơm áo gạo tiền trong tình cảm.",
+      "action_advice": "Thảo luận minh bạch về trách nhiệm tài chính và đóng góp công sức."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Bất ổn tài chính/kế hoạch)",
+      "reality_check": "Có sự chênh lệch hoặc toan tính vật chất bắt đầu xuất hiện.",
+      "hidden_motive": "Đang cân nhắc lợi ích cá nhân nhiều hơn là tương lai chung.",
+      "self_deception": "Bạn tin rằng tiền bạc không bao giờ làm rạn nứt tình yêu.",
+      "action_advice": "Giữ tự chủ tài chính; không nhập nhằng tiền bạc khi chưa có cam kết pháp lý."
+    }
+  },
+  {
+    "id": "pentacles_14",
+    "name": "King of Pentacles",
+    "name_vi": "Vua Tiền",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "image": "assets/images/cards/Minor_Arcana/Pentacles/Pents14.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Vững chắc & Thực tế)",
+      "reality_check": "Các yếu tố thực tế như tiền bạc, thời gian và công sức đang tác động rõ rệt.",
+      "hidden_motive": "Tìm kiếm sự ổn định, tin cậy và cam kết bằng hành động đo lường được.",
+      "self_deception": "Bạn coi nhẹ các vấn đề cơm áo gạo tiền trong tình cảm.",
+      "action_advice": "Thảo luận minh bạch về trách nhiệm tài chính và đóng góp công sức."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Bất ổn tài chính/kế hoạch)",
+      "reality_check": "Có sự chênh lệch hoặc toan tính vật chất bắt đầu xuất hiện.",
+      "hidden_motive": "Đang cân nhắc lợi ích cá nhân nhiều hơn là tương lai chung.",
+      "self_deception": "Bạn tin rằng tiền bạc không bao giờ làm rạn nứt tình yêu.",
+      "action_advice": "Giữ tự chủ tài chính; không nhập nhằng tiền bạc khi chưa có cam kết pháp lý."
+    }
+  },
+  {
+    "id": "swords_01",
+    "name": "Ace of Swords",
+    "name_vi": "Át Kiếm",
+    "arcana": "minor",
+    "suit": "swords",
+    "image": "assets/images/cards/Minor_Arcana/Swords/Swords01.jpg",
+    "upright": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Giao tiếp căng thẳng)",
+      "reality_check": "Vấn đề giao tiếp, lời nói gây sát thương hoặc sự trung thực đang bị thử thách trong mối quan hệ.",
+      "hidden_motive": "Đối phương có xu hướng phòng thủ cao, dùng lý lẽ sắc bén để lấn lướt bạn.",
+      "self_deception": "Bạn nghĩ chỉ cần mình giải thích rõ thì họ sẽ ngừng công kích.",
+      "action_advice": "Không tranh cãi khi cảm xúc đang nóng nảy; yêu cầu giao tiếp tôn trọng."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Thiếu minh bạch)",
+      "reality_check": "Sự bất đồng âm ỉ kéo dài chưa được giải quyết dứt điểm.",
+      "hidden_motive": "Muốn tránh xung đột trực tiếp nhưng sau lưng lại tích tụ bất mãn.",
+      "self_deception": "Bạn cố tin rằng im lặng là cách tốt nhất để giữ hòa khí.",
+      "action_advice": "Chủ động mở lời thẳng thắn về khúc mắc ngầm."
+    }
+  },
+  {
+    "id": "swords_02",
+    "name": "Two of Swords",
+    "name_vi": "Hai Kiếm",
+    "arcana": "minor",
+    "suit": "swords",
+    "image": "assets/images/cards/Minor_Arcana/Swords/Swords02.jpg",
+    "upright": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Giao tiếp căng thẳng)",
+      "reality_check": "Vấn đề giao tiếp, lời nói gây sát thương hoặc sự trung thực đang bị thử thách trong mối quan hệ.",
+      "hidden_motive": "Đối phương có xu hướng phòng thủ cao, dùng lý lẽ sắc bén để lấn lướt bạn.",
+      "self_deception": "Bạn nghĩ chỉ cần mình giải thích rõ thì họ sẽ ngừng công kích.",
+      "action_advice": "Không tranh cãi khi cảm xúc đang nóng nảy; yêu cầu giao tiếp tôn trọng."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Thiếu minh bạch)",
+      "reality_check": "Sự bất đồng âm ỉ kéo dài chưa được giải quyết dứt điểm.",
+      "hidden_motive": "Muốn tránh xung đột trực tiếp nhưng sau lưng lại tích tụ bất mãn.",
+      "self_deception": "Bạn cố tin rằng im lặng là cách tốt nhất để giữ hòa khí.",
+      "action_advice": "Chủ động mở lời thẳng thắn về khúc mắc ngầm."
+    }
+  },
+  {
+    "id": "swords_03",
+    "name": "Three of Swords",
+    "name_vi": "Ba Kiếm",
+    "arcana": "minor",
+    "suit": "swords",
+    "image": "assets/images/cards/Minor_Arcana/Swords/Swords03.jpg",
+    "upright": {
+      "flag": "red",
+      "flag_title": "Cờ đỏ (Tổn thương & Bất an)",
+      "reality_check": "Vấn đề giao tiếp, lời nói gây sát thương hoặc sự trung thực đang bị thử thách trong mối quan hệ.",
+      "hidden_motive": "Đối phương có xu hướng phòng thủ cao, dùng lý lẽ sắc bén để lấn lướt bạn.",
+      "self_deception": "Bạn nghĩ chỉ cần mình giải thích rõ thì họ sẽ ngừng công kích.",
+      "action_advice": "Không tranh cãi khi cảm xúc đang nóng nảy; yêu cầu giao tiếp tôn trọng."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Chữa lành chậm)",
+      "reality_check": "Sự bất đồng âm ỉ kéo dài chưa được giải quyết dứt điểm.",
+      "hidden_motive": "Muốn tránh xung đột trực tiếp nhưng sau lưng lại tích tụ bất mãn.",
+      "self_deception": "Bạn cố tin rằng im lặng là cách tốt nhất để giữ hòa khí.",
+      "action_advice": "Chủ động mở lời thẳng thắn về khúc mắc ngầm."
+    }
+  },
+  {
+    "id": "swords_04",
+    "name": "Four of Swords",
+    "name_vi": "Bốn Kiếm",
+    "arcana": "minor",
+    "suit": "swords",
+    "image": "assets/images/cards/Minor_Arcana/Swords/Swords04.jpg",
+    "upright": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Giao tiếp căng thẳng)",
+      "reality_check": "Vấn đề giao tiếp, lời nói gây sát thương hoặc sự trung thực đang bị thử thách trong mối quan hệ.",
+      "hidden_motive": "Đối phương có xu hướng phòng thủ cao, dùng lý lẽ sắc bén để lấn lướt bạn.",
+      "self_deception": "Bạn nghĩ chỉ cần mình giải thích rõ thì họ sẽ ngừng công kích.",
+      "action_advice": "Không tranh cãi khi cảm xúc đang nóng nảy; yêu cầu giao tiếp tôn trọng."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Thiếu minh bạch)",
+      "reality_check": "Sự bất đồng âm ỉ kéo dài chưa được giải quyết dứt điểm.",
+      "hidden_motive": "Muốn tránh xung đột trực tiếp nhưng sau lưng lại tích tụ bất mãn.",
+      "self_deception": "Bạn cố tin rằng im lặng là cách tốt nhất để giữ hòa khí.",
+      "action_advice": "Chủ động mở lời thẳng thắn về khúc mắc ngầm."
+    }
+  },
+  {
+    "id": "swords_05",
+    "name": "Five of Swords",
+    "name_vi": "Năm Kiếm",
+    "arcana": "minor",
+    "suit": "swords",
+    "image": "assets/images/cards/Minor_Arcana/Swords/Swords05.jpg",
+    "upright": {
+      "flag": "red",
+      "flag_title": "Cờ đỏ (Hiếu thắng & Độc hại)",
+      "reality_check": "Vấn đề giao tiếp, lời nói gây sát thương hoặc sự trung thực đang bị thử thách trong mối quan hệ.",
+      "hidden_motive": "Đối phương có xu hướng phòng thủ cao, dùng lý lẽ sắc bén để lấn lướt bạn.",
+      "self_deception": "Bạn nghĩ chỉ cần mình giải thích rõ thì họ sẽ ngừng công kích.",
+      "action_advice": "Không tranh cãi khi cảm xúc đang nóng nảy; yêu cầu giao tiếp tôn trọng."
+    },
+    "reversed": {
+      "flag": "red",
+      "flag_title": "Cờ đỏ (Cay cú sau xung đột)",
+      "reality_check": "Sự bất đồng âm ỉ kéo dài chưa được giải quyết dứt điểm.",
+      "hidden_motive": "Muốn tránh xung đột trực tiếp nhưng sau lưng lại tích tụ bất mãn.",
+      "self_deception": "Bạn cố tin rằng im lặng là cách tốt nhất để giữ hòa khí.",
+      "action_advice": "Chủ động mở lời thẳng thắn về khúc mắc ngầm."
+    }
+  },
+  {
+    "id": "swords_06",
+    "name": "Six of Swords",
+    "name_vi": "Sáu Kiếm",
+    "arcana": "minor",
+    "suit": "swords",
+    "image": "assets/images/cards/Minor_Arcana/Swords/Swords06.jpg",
+    "upright": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Giao tiếp căng thẳng)",
+      "reality_check": "Vấn đề giao tiếp, lời nói gây sát thương hoặc sự trung thực đang bị thử thách trong mối quan hệ.",
+      "hidden_motive": "Đối phương có xu hướng phòng thủ cao, dùng lý lẽ sắc bén để lấn lướt bạn.",
+      "self_deception": "Bạn nghĩ chỉ cần mình giải thích rõ thì họ sẽ ngừng công kích.",
+      "action_advice": "Không tranh cãi khi cảm xúc đang nóng nảy; yêu cầu giao tiếp tôn trọng."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Thiếu minh bạch)",
+      "reality_check": "Sự bất đồng âm ỉ kéo dài chưa được giải quyết dứt điểm.",
+      "hidden_motive": "Muốn tránh xung đột trực tiếp nhưng sau lưng lại tích tụ bất mãn.",
+      "self_deception": "Bạn cố tin rằng im lặng là cách tốt nhất để giữ hòa khí.",
+      "action_advice": "Chủ động mở lời thẳng thắn về khúc mắc ngầm."
+    }
+  },
+  {
+    "id": "swords_07",
+    "name": "Seven of Swords",
+    "name_vi": "Bảy Kiếm",
+    "arcana": "minor",
+    "suit": "swords",
+    "image": "assets/images/cards/Minor_Arcana/Swords/Swords07.jpg",
+    "upright": {
+      "flag": "red",
+      "flag_title": "Cờ đỏ (Tổn thương & Bất an)",
+      "reality_check": "Vấn đề giao tiếp, lời nói gây sát thương hoặc sự trung thực đang bị thử thách trong mối quan hệ.",
+      "hidden_motive": "Đối phương có xu hướng phòng thủ cao, dùng lý lẽ sắc bén để lấn lướt bạn.",
+      "self_deception": "Bạn nghĩ chỉ cần mình giải thích rõ thì họ sẽ ngừng công kích.",
+      "action_advice": "Không tranh cãi khi cảm xúc đang nóng nảy; yêu cầu giao tiếp tôn trọng."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Chữa lành chậm)",
+      "reality_check": "Sự bất đồng âm ỉ kéo dài chưa được giải quyết dứt điểm.",
+      "hidden_motive": "Muốn tránh xung đột trực tiếp nhưng sau lưng lại tích tụ bất mãn.",
+      "self_deception": "Bạn cố tin rằng im lặng là cách tốt nhất để giữ hòa khí.",
+      "action_advice": "Chủ động mở lời thẳng thắn về khúc mắc ngầm."
+    }
+  },
+  {
+    "id": "swords_08",
+    "name": "Eight of Swords",
+    "name_vi": "Tám Kiếm",
+    "arcana": "minor",
+    "suit": "swords",
+    "image": "assets/images/cards/Minor_Arcana/Swords/Swords08.jpg",
+    "upright": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Giao tiếp căng thẳng)",
+      "reality_check": "Vấn đề giao tiếp, lời nói gây sát thương hoặc sự trung thực đang bị thử thách trong mối quan hệ.",
+      "hidden_motive": "Đối phương có xu hướng phòng thủ cao, dùng lý lẽ sắc bén để lấn lướt bạn.",
+      "self_deception": "Bạn nghĩ chỉ cần mình giải thích rõ thì họ sẽ ngừng công kích.",
+      "action_advice": "Không tranh cãi khi cảm xúc đang nóng nảy; yêu cầu giao tiếp tôn trọng."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Thiếu minh bạch)",
+      "reality_check": "Sự bất đồng âm ỉ kéo dài chưa được giải quyết dứt điểm.",
+      "hidden_motive": "Muốn tránh xung đột trực tiếp nhưng sau lưng lại tích tụ bất mãn.",
+      "self_deception": "Bạn cố tin rằng im lặng là cách tốt nhất để giữ hòa khí.",
+      "action_advice": "Chủ động mở lời thẳng thắn về khúc mắc ngầm."
+    }
+  },
+  {
+    "id": "swords_09",
+    "name": "Nine of Swords",
+    "name_vi": "Chín Kiếm",
+    "arcana": "minor",
+    "suit": "swords",
+    "image": "assets/images/cards/Minor_Arcana/Swords/Swords09.jpg",
+    "upright": {
+      "flag": "red",
+      "flag_title": "Cờ đỏ (Tổn thương & Bất an)",
+      "reality_check": "Vấn đề giao tiếp, lời nói gây sát thương hoặc sự trung thực đang bị thử thách trong mối quan hệ.",
+      "hidden_motive": "Đối phương có xu hướng phòng thủ cao, dùng lý lẽ sắc bén để lấn lướt bạn.",
+      "self_deception": "Bạn nghĩ chỉ cần mình giải thích rõ thì họ sẽ ngừng công kích.",
+      "action_advice": "Không tranh cãi khi cảm xúc đang nóng nảy; yêu cầu giao tiếp tôn trọng."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Chữa lành chậm)",
+      "reality_check": "Sự bất đồng âm ỉ kéo dài chưa được giải quyết dứt điểm.",
+      "hidden_motive": "Muốn tránh xung đột trực tiếp nhưng sau lưng lại tích tụ bất mãn.",
+      "self_deception": "Bạn cố tin rằng im lặng là cách tốt nhất để giữ hòa khí.",
+      "action_advice": "Chủ động mở lời thẳng thắn về khúc mắc ngầm."
+    }
+  },
+  {
+    "id": "swords_10",
+    "name": "Ten of Swords",
+    "name_vi": "Mười Kiếm",
+    "arcana": "minor",
+    "suit": "swords",
+    "image": "assets/images/cards/Minor_Arcana/Swords/Swords10.jpg",
+    "upright": {
+      "flag": "red",
+      "flag_title": "Cờ đỏ (Tổn thương & Bất an)",
+      "reality_check": "Vấn đề giao tiếp, lời nói gây sát thương hoặc sự trung thực đang bị thử thách trong mối quan hệ.",
+      "hidden_motive": "Đối phương có xu hướng phòng thủ cao, dùng lý lẽ sắc bén để lấn lướt bạn.",
+      "self_deception": "Bạn nghĩ chỉ cần mình giải thích rõ thì họ sẽ ngừng công kích.",
+      "action_advice": "Không tranh cãi khi cảm xúc đang nóng nảy; yêu cầu giao tiếp tôn trọng."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Chữa lành chậm)",
+      "reality_check": "Sự bất đồng âm ỉ kéo dài chưa được giải quyết dứt điểm.",
+      "hidden_motive": "Muốn tránh xung đột trực tiếp nhưng sau lưng lại tích tụ bất mãn.",
+      "self_deception": "Bạn cố tin rằng im lặng là cách tốt nhất để giữ hòa khí.",
+      "action_advice": "Chủ động mở lời thẳng thắn về khúc mắc ngầm."
+    }
+  },
+  {
+    "id": "swords_11",
+    "name": "Page of Swords",
+    "name_vi": "Tiểu Đồng Kiếm",
+    "arcana": "minor",
+    "suit": "swords",
+    "image": "assets/images/cards/Minor_Arcana/Swords/Swords11.jpg",
+    "upright": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Giao tiếp căng thẳng)",
+      "reality_check": "Vấn đề giao tiếp, lời nói gây sát thương hoặc sự trung thực đang bị thử thách trong mối quan hệ.",
+      "hidden_motive": "Đối phương có xu hướng phòng thủ cao, dùng lý lẽ sắc bén để lấn lướt bạn.",
+      "self_deception": "Bạn nghĩ chỉ cần mình giải thích rõ thì họ sẽ ngừng công kích.",
+      "action_advice": "Không tranh cãi khi cảm xúc đang nóng nảy; yêu cầu giao tiếp tôn trọng."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Thiếu minh bạch)",
+      "reality_check": "Sự bất đồng âm ỉ kéo dài chưa được giải quyết dứt điểm.",
+      "hidden_motive": "Muốn tránh xung đột trực tiếp nhưng sau lưng lại tích tụ bất mãn.",
+      "self_deception": "Bạn cố tin rằng im lặng là cách tốt nhất để giữ hòa khí.",
+      "action_advice": "Chủ động mở lời thẳng thắn về khúc mắc ngầm."
+    }
+  },
+  {
+    "id": "swords_12",
+    "name": "Knight of Swords",
+    "name_vi": "Hiệp Sĩ Kiếm",
+    "arcana": "minor",
+    "suit": "swords",
+    "image": "assets/images/cards/Minor_Arcana/Swords/Swords12.jpg",
+    "upright": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Giao tiếp căng thẳng)",
+      "reality_check": "Vấn đề giao tiếp, lời nói gây sát thương hoặc sự trung thực đang bị thử thách trong mối quan hệ.",
+      "hidden_motive": "Đối phương có xu hướng phòng thủ cao, dùng lý lẽ sắc bén để lấn lướt bạn.",
+      "self_deception": "Bạn nghĩ chỉ cần mình giải thích rõ thì họ sẽ ngừng công kích.",
+      "action_advice": "Không tranh cãi khi cảm xúc đang nóng nảy; yêu cầu giao tiếp tôn trọng."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Thiếu minh bạch)",
+      "reality_check": "Sự bất đồng âm ỉ kéo dài chưa được giải quyết dứt điểm.",
+      "hidden_motive": "Muốn tránh xung đột trực tiếp nhưng sau lưng lại tích tụ bất mãn.",
+      "self_deception": "Bạn cố tin rằng im lặng là cách tốt nhất để giữ hòa khí.",
+      "action_advice": "Chủ động mở lời thẳng thắn về khúc mắc ngầm."
+    }
+  },
+  {
+    "id": "swords_13",
+    "name": "Queen of Swords",
+    "name_vi": "Hoàng Hậu Kiếm",
+    "arcana": "minor",
+    "suit": "swords",
+    "image": "assets/images/cards/Minor_Arcana/Swords/Swords13.jpg",
+    "upright": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Giao tiếp căng thẳng)",
+      "reality_check": "Vấn đề giao tiếp, lời nói gây sát thương hoặc sự trung thực đang bị thử thách trong mối quan hệ.",
+      "hidden_motive": "Đối phương có xu hướng phòng thủ cao, dùng lý lẽ sắc bén để lấn lướt bạn.",
+      "self_deception": "Bạn nghĩ chỉ cần mình giải thích rõ thì họ sẽ ngừng công kích.",
+      "action_advice": "Không tranh cãi khi cảm xúc đang nóng nảy; yêu cầu giao tiếp tôn trọng."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Thiếu minh bạch)",
+      "reality_check": "Sự bất đồng âm ỉ kéo dài chưa được giải quyết dứt điểm.",
+      "hidden_motive": "Muốn tránh xung đột trực tiếp nhưng sau lưng lại tích tụ bất mãn.",
+      "self_deception": "Bạn cố tin rằng im lặng là cách tốt nhất để giữ hòa khí.",
+      "action_advice": "Chủ động mở lời thẳng thắn về khúc mắc ngầm."
+    }
+  },
+  {
+    "id": "swords_14",
+    "name": "King of Swords",
+    "name_vi": "Vua Kiếm",
+    "arcana": "minor",
+    "suit": "swords",
+    "image": "assets/images/cards/Minor_Arcana/Swords/Swords14.jpg",
+    "upright": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Giao tiếp căng thẳng)",
+      "reality_check": "Vấn đề giao tiếp, lời nói gây sát thương hoặc sự trung thực đang bị thử thách trong mối quan hệ.",
+      "hidden_motive": "Đối phương có xu hướng phòng thủ cao, dùng lý lẽ sắc bén để lấn lướt bạn.",
+      "self_deception": "Bạn nghĩ chỉ cần mình giải thích rõ thì họ sẽ ngừng công kích.",
+      "action_advice": "Không tranh cãi khi cảm xúc đang nóng nảy; yêu cầu giao tiếp tôn trọng."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Thiếu minh bạch)",
+      "reality_check": "Sự bất đồng âm ỉ kéo dài chưa được giải quyết dứt điểm.",
+      "hidden_motive": "Muốn tránh xung đột trực tiếp nhưng sau lưng lại tích tụ bất mãn.",
+      "self_deception": "Bạn cố tin rằng im lặng là cách tốt nhất để giữ hòa khí.",
+      "action_advice": "Chủ động mở lời thẳng thắn về khúc mắc ngầm."
+    }
+  },
+  {
+    "id": "wands_01",
+    "name": "Ace of Wands",
+    "name_vi": "Át Gậy",
+    "arcana": "minor",
+    "suit": "wands",
+    "image": "assets/images/cards/Minor_Arcana/Wands/Wands01.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Nhiệt huyết & Chủ động)",
+      "reality_check": "Năng lượng và sự hấp dẫn ban đầu rất mạnh, nhưng cần thử thách độ bền.",
+      "hidden_motive": "Bị cuốn hút bởi sự mới mẻ và khao khát chinh phục.",
+      "self_deception": "Bạn nhầm lẫn sự cuồng nhiệt ban đầu với tình yêu bền vững.",
+      "action_advice": "Giữ nhịp độ vừa phải, không đốt cháy giai đoạn."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Cả thèm chóng chán)",
+      "reality_check": "Nguy cơ ngọn lửa hạ nhiệt nhanh chóng khi hết cảm giác mới lạ.",
+      "hidden_motive": "Mất dần hứng thú hoặc đang chuyển sự chú ý sang mục tiêu khác.",
+      "self_deception": "Bạn tìm mọi cách gây ấn tượng lại khi thấy họ bắt đầu lạnh lùng.",
+      "action_advice": "Bình thản quan sát; người thật lòng sẽ biết giữ gìn ngọn lửa lâu dài."
+    }
+  },
+  {
+    "id": "wands_02",
+    "name": "Two of Wands",
+    "name_vi": "Hai Gậy",
+    "arcana": "minor",
+    "suit": "wands",
+    "image": "assets/images/cards/Minor_Arcana/Wands/Wands02.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Nhiệt huyết & Chủ động)",
+      "reality_check": "Năng lượng và sự hấp dẫn ban đầu rất mạnh, nhưng cần thử thách độ bền.",
+      "hidden_motive": "Bị cuốn hút bởi sự mới mẻ và khao khát chinh phục.",
+      "self_deception": "Bạn nhầm lẫn sự cuồng nhiệt ban đầu với tình yêu bền vững.",
+      "action_advice": "Giữ nhịp độ vừa phải, không đốt cháy giai đoạn."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Cả thèm chóng chán)",
+      "reality_check": "Nguy cơ ngọn lửa hạ nhiệt nhanh chóng khi hết cảm giác mới lạ.",
+      "hidden_motive": "Mất dần hứng thú hoặc đang chuyển sự chú ý sang mục tiêu khác.",
+      "self_deception": "Bạn tìm mọi cách gây ấn tượng lại khi thấy họ bắt đầu lạnh lùng.",
+      "action_advice": "Bình thản quan sát; người thật lòng sẽ biết giữ gìn ngọn lửa lâu dài."
+    }
+  },
+  {
+    "id": "wands_03",
+    "name": "Three of Wands",
+    "name_vi": "Ba Gậy",
+    "arcana": "minor",
+    "suit": "wands",
+    "image": "assets/images/cards/Minor_Arcana/Wands/Wands03.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Nhiệt huyết & Chủ động)",
+      "reality_check": "Năng lượng và sự hấp dẫn ban đầu rất mạnh, nhưng cần thử thách độ bền.",
+      "hidden_motive": "Bị cuốn hút bởi sự mới mẻ và khao khát chinh phục.",
+      "self_deception": "Bạn nhầm lẫn sự cuồng nhiệt ban đầu với tình yêu bền vững.",
+      "action_advice": "Giữ nhịp độ vừa phải, không đốt cháy giai đoạn."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Cả thèm chóng chán)",
+      "reality_check": "Nguy cơ ngọn lửa hạ nhiệt nhanh chóng khi hết cảm giác mới lạ.",
+      "hidden_motive": "Mất dần hứng thú hoặc đang chuyển sự chú ý sang mục tiêu khác.",
+      "self_deception": "Bạn tìm mọi cách gây ấn tượng lại khi thấy họ bắt đầu lạnh lùng.",
+      "action_advice": "Bình thản quan sát; người thật lòng sẽ biết giữ gìn ngọn lửa lâu dài."
+    }
+  },
+  {
+    "id": "wands_04",
+    "name": "Four of Wands",
+    "name_vi": "Bốn Gậy",
+    "arcana": "minor",
+    "suit": "wands",
+    "image": "assets/images/cards/Minor_Arcana/Wands/Wands04.jpg",
+    "upright": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Hấp tấp vội vã)",
+      "reality_check": "Năng lượng và sự hấp dẫn ban đầu rất mạnh, nhưng cần thử thách độ bền.",
+      "hidden_motive": "Bị cuốn hút bởi sự mới mẻ và khao khát chinh phục.",
+      "self_deception": "Bạn nhầm lẫn sự cuồng nhiệt ban đầu với tình yêu bền vững.",
+      "action_advice": "Giữ nhịp độ vừa phải, không đốt cháy giai đoạn."
+    },
+    "reversed": {
+      "flag": "red",
+      "flag_title": "Cờ đỏ (Bỏ cuộc giữa chừng / Ghosting)",
+      "reality_check": "Nguy cơ ngọn lửa hạ nhiệt nhanh chóng khi hết cảm giác mới lạ.",
+      "hidden_motive": "Mất dần hứng thú hoặc đang chuyển sự chú ý sang mục tiêu khác.",
+      "self_deception": "Bạn tìm mọi cách gây ấn tượng lại khi thấy họ bắt đầu lạnh lùng.",
+      "action_advice": "Bình thản quan sát; người thật lòng sẽ biết giữ gìn ngọn lửa lâu dài."
+    }
+  },
+  {
+    "id": "wands_05",
+    "name": "Five of Wands",
+    "name_vi": "Năm Gậy",
+    "arcana": "minor",
+    "suit": "wands",
+    "image": "assets/images/cards/Minor_Arcana/Wands/Wands05.jpg",
+    "upright": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Cạnh tranh & Xung đột cái tôi)",
+      "reality_check": "Năng lượng và sự hấp dẫn ban đầu rất mạnh, nhưng cần thử thách độ bền.",
+      "hidden_motive": "Bị cuốn hút bởi sự mới mẻ và khao khát chinh phục.",
+      "self_deception": "Bạn nhầm lẫn sự cuồng nhiệt ban đầu với tình yêu bền vững.",
+      "action_advice": "Giữ nhịp độ vừa phải, không đốt cháy giai đoạn."
+    },
+    "reversed": {
+      "flag": "red",
+      "flag_title": "Cờ đỏ (Kiệt sức vì tranh đấu)",
+      "reality_check": "Nguy cơ ngọn lửa hạ nhiệt nhanh chóng khi hết cảm giác mới lạ.",
+      "hidden_motive": "Mất dần hứng thú hoặc đang chuyển sự chú ý sang mục tiêu khác.",
+      "self_deception": "Bạn tìm mọi cách gây ấn tượng lại khi thấy họ bắt đầu lạnh lùng.",
+      "action_advice": "Bình thản quan sát; người thật lòng sẽ biết giữ gìn ngọn lửa lâu dài."
+    }
+  },
+  {
+    "id": "wands_06",
+    "name": "Six of Wands",
+    "name_vi": "Sáu Gậy",
+    "arcana": "minor",
+    "suit": "wands",
+    "image": "assets/images/cards/Minor_Arcana/Wands/Wands06.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Nhiệt huyết & Chủ động)",
+      "reality_check": "Năng lượng và sự hấp dẫn ban đầu rất mạnh, nhưng cần thử thách độ bền.",
+      "hidden_motive": "Bị cuốn hút bởi sự mới mẻ và khao khát chinh phục.",
+      "self_deception": "Bạn nhầm lẫn sự cuồng nhiệt ban đầu với tình yêu bền vững.",
+      "action_advice": "Giữ nhịp độ vừa phải, không đốt cháy giai đoạn."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Cả thèm chóng chán)",
+      "reality_check": "Nguy cơ ngọn lửa hạ nhiệt nhanh chóng khi hết cảm giác mới lạ.",
+      "hidden_motive": "Mất dần hứng thú hoặc đang chuyển sự chú ý sang mục tiêu khác.",
+      "self_deception": "Bạn tìm mọi cách gây ấn tượng lại khi thấy họ bắt đầu lạnh lùng.",
+      "action_advice": "Bình thản quan sát; người thật lòng sẽ biết giữ gìn ngọn lửa lâu dài."
+    }
+  },
+  {
+    "id": "wands_07",
+    "name": "Seven of Wands",
+    "name_vi": "Bảy Gậy",
+    "arcana": "minor",
+    "suit": "wands",
+    "image": "assets/images/cards/Minor_Arcana/Wands/Wands07.jpg",
+    "upright": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Cạnh tranh & Xung đột cái tôi)",
+      "reality_check": "Năng lượng và sự hấp dẫn ban đầu rất mạnh, nhưng cần thử thách độ bền.",
+      "hidden_motive": "Bị cuốn hút bởi sự mới mẻ và khao khát chinh phục.",
+      "self_deception": "Bạn nhầm lẫn sự cuồng nhiệt ban đầu với tình yêu bền vững.",
+      "action_advice": "Giữ nhịp độ vừa phải, không đốt cháy giai đoạn."
+    },
+    "reversed": {
+      "flag": "red",
+      "flag_title": "Cờ đỏ (Kiệt sức vì tranh đấu)",
+      "reality_check": "Nguy cơ ngọn lửa hạ nhiệt nhanh chóng khi hết cảm giác mới lạ.",
+      "hidden_motive": "Mất dần hứng thú hoặc đang chuyển sự chú ý sang mục tiêu khác.",
+      "self_deception": "Bạn tìm mọi cách gây ấn tượng lại khi thấy họ bắt đầu lạnh lùng.",
+      "action_advice": "Bình thản quan sát; người thật lòng sẽ biết giữ gìn ngọn lửa lâu dài."
+    }
+  },
+  {
+    "id": "wands_08",
+    "name": "Eight of Wands",
+    "name_vi": "Tám Gậy",
+    "arcana": "minor",
+    "suit": "wands",
+    "image": "assets/images/cards/Minor_Arcana/Wands/Wands08.jpg",
+    "upright": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Hấp tấp vội vã)",
+      "reality_check": "Năng lượng và sự hấp dẫn ban đầu rất mạnh, nhưng cần thử thách độ bền.",
+      "hidden_motive": "Bị cuốn hút bởi sự mới mẻ và khao khát chinh phục.",
+      "self_deception": "Bạn nhầm lẫn sự cuồng nhiệt ban đầu với tình yêu bền vững.",
+      "action_advice": "Giữ nhịp độ vừa phải, không đốt cháy giai đoạn."
+    },
+    "reversed": {
+      "flag": "red",
+      "flag_title": "Cờ đỏ (Bỏ cuộc giữa chừng / Ghosting)",
+      "reality_check": "Nguy cơ ngọn lửa hạ nhiệt nhanh chóng khi hết cảm giác mới lạ.",
+      "hidden_motive": "Mất dần hứng thú hoặc đang chuyển sự chú ý sang mục tiêu khác.",
+      "self_deception": "Bạn tìm mọi cách gây ấn tượng lại khi thấy họ bắt đầu lạnh lùng.",
+      "action_advice": "Bình thản quan sát; người thật lòng sẽ biết giữ gìn ngọn lửa lâu dài."
+    }
+  },
+  {
+    "id": "wands_09",
+    "name": "Nine of Wands",
+    "name_vi": "Chín Gậy",
+    "arcana": "minor",
+    "suit": "wands",
+    "image": "assets/images/cards/Minor_Arcana/Wands/Wands09.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Nhiệt huyết & Chủ động)",
+      "reality_check": "Năng lượng và sự hấp dẫn ban đầu rất mạnh, nhưng cần thử thách độ bền.",
+      "hidden_motive": "Bị cuốn hút bởi sự mới mẻ và khao khát chinh phục.",
+      "self_deception": "Bạn nhầm lẫn sự cuồng nhiệt ban đầu với tình yêu bền vững.",
+      "action_advice": "Giữ nhịp độ vừa phải, không đốt cháy giai đoạn."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Cả thèm chóng chán)",
+      "reality_check": "Nguy cơ ngọn lửa hạ nhiệt nhanh chóng khi hết cảm giác mới lạ.",
+      "hidden_motive": "Mất dần hứng thú hoặc đang chuyển sự chú ý sang mục tiêu khác.",
+      "self_deception": "Bạn tìm mọi cách gây ấn tượng lại khi thấy họ bắt đầu lạnh lùng.",
+      "action_advice": "Bình thản quan sát; người thật lòng sẽ biết giữ gìn ngọn lửa lâu dài."
+    }
+  },
+  {
+    "id": "wands_10",
+    "name": "Ten of Wands",
+    "name_vi": "Mười Gậy",
+    "arcana": "minor",
+    "suit": "wands",
+    "image": "assets/images/cards/Minor_Arcana/Wands/Wands10.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Nhiệt huyết & Chủ động)",
+      "reality_check": "Năng lượng và sự hấp dẫn ban đầu rất mạnh, nhưng cần thử thách độ bền.",
+      "hidden_motive": "Bị cuốn hút bởi sự mới mẻ và khao khát chinh phục.",
+      "self_deception": "Bạn nhầm lẫn sự cuồng nhiệt ban đầu với tình yêu bền vững.",
+      "action_advice": "Giữ nhịp độ vừa phải, không đốt cháy giai đoạn."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Cả thèm chóng chán)",
+      "reality_check": "Nguy cơ ngọn lửa hạ nhiệt nhanh chóng khi hết cảm giác mới lạ.",
+      "hidden_motive": "Mất dần hứng thú hoặc đang chuyển sự chú ý sang mục tiêu khác.",
+      "self_deception": "Bạn tìm mọi cách gây ấn tượng lại khi thấy họ bắt đầu lạnh lùng.",
+      "action_advice": "Bình thản quan sát; người thật lòng sẽ biết giữ gìn ngọn lửa lâu dài."
+    }
+  },
+  {
+    "id": "wands_11",
+    "name": "Page of Wands",
+    "name_vi": "Tiểu Đồng Gậy",
+    "arcana": "minor",
+    "suit": "wands",
+    "image": "assets/images/cards/Minor_Arcana/Wands/Wands11.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Nhiệt huyết & Chủ động)",
+      "reality_check": "Năng lượng và sự hấp dẫn ban đầu rất mạnh, nhưng cần thử thách độ bền.",
+      "hidden_motive": "Bị cuốn hút bởi sự mới mẻ và khao khát chinh phục.",
+      "self_deception": "Bạn nhầm lẫn sự cuồng nhiệt ban đầu với tình yêu bền vững.",
+      "action_advice": "Giữ nhịp độ vừa phải, không đốt cháy giai đoạn."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Cả thèm chóng chán)",
+      "reality_check": "Nguy cơ ngọn lửa hạ nhiệt nhanh chóng khi hết cảm giác mới lạ.",
+      "hidden_motive": "Mất dần hứng thú hoặc đang chuyển sự chú ý sang mục tiêu khác.",
+      "self_deception": "Bạn tìm mọi cách gây ấn tượng lại khi thấy họ bắt đầu lạnh lùng.",
+      "action_advice": "Bình thản quan sát; người thật lòng sẽ biết giữ gìn ngọn lửa lâu dài."
+    }
+  },
+  {
+    "id": "wands_12",
+    "name": "Knight of Wands",
+    "name_vi": "Hiệp Sĩ Gậy",
+    "arcana": "minor",
+    "suit": "wands",
+    "image": "assets/images/cards/Minor_Arcana/Wands/Wands12.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Nhiệt huyết & Chủ động)",
+      "reality_check": "Năng lượng và sự hấp dẫn ban đầu rất mạnh, nhưng cần thử thách độ bền.",
+      "hidden_motive": "Bị cuốn hút bởi sự mới mẻ và khao khát chinh phục.",
+      "self_deception": "Bạn nhầm lẫn sự cuồng nhiệt ban đầu với tình yêu bền vững.",
+      "action_advice": "Giữ nhịp độ vừa phải, không đốt cháy giai đoạn."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Cả thèm chóng chán)",
+      "reality_check": "Nguy cơ ngọn lửa hạ nhiệt nhanh chóng khi hết cảm giác mới lạ.",
+      "hidden_motive": "Mất dần hứng thú hoặc đang chuyển sự chú ý sang mục tiêu khác.",
+      "self_deception": "Bạn tìm mọi cách gây ấn tượng lại khi thấy họ bắt đầu lạnh lùng.",
+      "action_advice": "Bình thản quan sát; người thật lòng sẽ biết giữ gìn ngọn lửa lâu dài."
+    }
+  },
+  {
+    "id": "wands_13",
+    "name": "Queen of Wands",
+    "name_vi": "Hoàng Hậu Gậy",
+    "arcana": "minor",
+    "suit": "wands",
+    "image": "assets/images/cards/Minor_Arcana/Wands/Wands13.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Nhiệt huyết & Chủ động)",
+      "reality_check": "Năng lượng và sự hấp dẫn ban đầu rất mạnh, nhưng cần thử thách độ bền.",
+      "hidden_motive": "Bị cuốn hút bởi sự mới mẻ và khao khát chinh phục.",
+      "self_deception": "Bạn nhầm lẫn sự cuồng nhiệt ban đầu với tình yêu bền vững.",
+      "action_advice": "Giữ nhịp độ vừa phải, không đốt cháy giai đoạn."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Cả thèm chóng chán)",
+      "reality_check": "Nguy cơ ngọn lửa hạ nhiệt nhanh chóng khi hết cảm giác mới lạ.",
+      "hidden_motive": "Mất dần hứng thú hoặc đang chuyển sự chú ý sang mục tiêu khác.",
+      "self_deception": "Bạn tìm mọi cách gây ấn tượng lại khi thấy họ bắt đầu lạnh lùng.",
+      "action_advice": "Bình thản quan sát; người thật lòng sẽ biết giữ gìn ngọn lửa lâu dài."
+    }
+  },
+  {
+    "id": "wands_14",
+    "name": "King of Wands",
+    "name_vi": "Vua Gậy",
+    "arcana": "minor",
+    "suit": "wands",
+    "image": "assets/images/cards/Minor_Arcana/Wands/Wands14.jpg",
+    "upright": {
+      "flag": "green",
+      "flag_title": "Cờ xanh (Nhiệt huyết & Chủ động)",
+      "reality_check": "Năng lượng và sự hấp dẫn ban đầu rất mạnh, nhưng cần thử thách độ bền.",
+      "hidden_motive": "Bị cuốn hút bởi sự mới mẻ và khao khát chinh phục.",
+      "self_deception": "Bạn nhầm lẫn sự cuồng nhiệt ban đầu với tình yêu bền vững.",
+      "action_advice": "Giữ nhịp độ vừa phải, không đốt cháy giai đoạn."
+    },
+    "reversed": {
+      "flag": "yellow",
+      "flag_title": "Cờ vàng (Cả thèm chóng chán)",
+      "reality_check": "Nguy cơ ngọn lửa hạ nhiệt nhanh chóng khi hết cảm giác mới lạ.",
+      "hidden_motive": "Mất dần hứng thú hoặc đang chuyển sự chú ý sang mục tiêu khác.",
+      "self_deception": "Bạn tìm mọi cách gây ấn tượng lại khi thấy họ bắt đầu lạnh lùng.",
+      "action_advice": "Bình thản quan sát; người thật lòng sẽ biết giữ gìn ngọn lửa lâu dài."
+    }
+  }
+]

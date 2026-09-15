@@ -1,0 +1,2 @@
+Thiết kế cấu trúc dữ liệu của 1 lá bài (Object Schema).
+Nạp bài vào bộ thông qua JS + Xáo bài (ngược, xuôi, thứ tự)
