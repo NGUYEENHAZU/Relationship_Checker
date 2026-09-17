@@ -23,11 +23,11 @@ async loadCards() { // tải dữ liệu bất đồng bộ sử dụng async đ
 
 // gom bài lại từ đầu
 resetDeck() {
-        this.currentDeck = [];              // trả currentDeck thành 1 deck rỗng
-        for (let card of this.deckCards) {  // duyệt từng lá từ bồ bộ bài gốc vào 
-            this.currentDeck.push(card);    // nhét từng lá vào
-        }
-        //this.currentDeck = [...this.deckCards];   // "..." là cú pháp spread operator, ý nghĩa trãi bài từ bộ gốc ra hết sau đó sao chép sang currentDeck để có bộ bài có thể xáo mà không cần reload lại nguyên bộ bài | nói cách khác nó thay thế cho vòng for
+        // this.currentDeck = [];              // trả currentDeck thành 1 deck rỗng
+        // for (let card of this.deckCards) {  // duyệt từng lá từ bồ bộ bài gốc vào 
+        //     this.currentDeck.push(card);    // nhét từng lá vào
+        // }
+        this.currentDeck = [...this.deckCards];   // "..." là cú pháp spread operator, ý nghĩa trãi bài từ bộ gốc ra hết sau đó sao chép sang currentDeck để có bộ bài có thể xáo mà không cần reload lại nguyên bộ bài | nói cách khác nó thay thế cho vòng for
         this.drawnCards = [];
     }
 // xáo bài
