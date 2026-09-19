@@ -1,0 +1,56 @@
+/* css/card-effects.css */
+
+/* Kích thước chuẩn tỉ lệ 1 lá bài Tarot (khoảng 1 : 1.7) */
+.tarot-card {
+  width: 140px;
+  height: 240px;
+  perspective: 1000px; /* Tạo chiều sâu không gian 3D */
+  cursor: pointer;
+}
+
+/* Khung xoay chứa 2 mặt */
+.card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  transform-style: preserve-3d; /* Giữ môi trường 3D cho các lớp con */
+}
+
+/* Khi có class .flipped, toàn bộ lá bài lật úp -> ngửa */
+.card-inner.flipped {
+  transform: rotateY(180deg);
+}
+
+/* Định dạng chung cho cả mặt trước và mặt sau */
+.card-face {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+  backface-visibility: hidden; /* Ẩn mặt phía sau khi xoay */
+  overflow: hidden;
+}
+
+.card-face img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* Mặt sau (Bài úp - hiển thị lúc đầu) */
+.card-back {
+  background: #1a1a2e;
+}
+
+/* Mặt trước (Lá bài thật - xoay sẵn 180 độ để khi .card-inner xoay thì nó lộ diện) */
+.card-front {
+  transform: rotateY(180deg);
+}
+
+/* Xử lý lá bài chiều NGƯỢC (Reversed): lộn ngược đầu ảnh */
+.card-front.reversed img {
+  transform: rotate(180deg);
+}

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Relationship Checker - Rút bài Tarot</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/card-effects.css">
+</head>
+<body>
+
+  <div class="deck-container">
+    <!-- 1. Bảng điều khiển -->
+    <div class="deck-header">
+      <h2>Bàn Rút Bài Tarot</h2>
+      <button id="btn-shuffle" class="btn">🔀 Xáo bài</button>
+      <span id="counter">Đã rút: 0 / 3 lá</span>
+    </div>
+
+    <!-- 2. Khay bài úp (Nơi người dùng bấm vào để rút) -->
+    <div class="deck-area">
+      <div id="deck-pile" class="deck-pile" title="Bấm vào để rút bài">
+        <img src="assets/images/cards/BackSide.jpg" alt="Mặt sau lá bài">
+        <span class="pile-label">Chạm để rút</span>
+      </div>
+    </div>
+
+    <!-- 3. Bàn hiển thị các lá bài đã được rút ra -->
+    <div id="slots-container" class="slots-container">
+      <!-- JavaScript sẽ tự động chèn các lá bài được rút vào đây -->
+    </div>
+  </div>
+
+  <!-- Nạp script -->
+  <script src="js/deck.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
